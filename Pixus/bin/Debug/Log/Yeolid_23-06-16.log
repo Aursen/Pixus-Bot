@@ -1,0 +1,223 @@
+[16:08:29] DEBUG::Game Window : Yeolid
+[16:08:29] DEBUG::Game Panel Resolution : 563x411
+[16:08:29] DEBUG::Move UP Point : 281x0
+[16:08:29] DEBUG::Move RIGHT Point : 531x205
+[16:08:29] DEBUG::Move DOWN Point : 281x348
+[16:08:29] DEBUG::Move LEFT Point : 28x205
+[16:08:29] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:08:29] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:08:29] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:08:29] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:43:57] DEBUG::Game Window : Yeolid
+[16:43:57] DEBUG::Game Panel Resolution : 563x411
+[16:43:57] DEBUG::Move UP Point : 281x0
+[16:43:57] DEBUG::Move RIGHT Point : 531x205
+[16:43:57] DEBUG::Move DOWN Point : 281x348
+[16:43:57] DEBUG::Move LEFT Point : 28x205
+[16:43:57] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:43:57] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:43:57] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:43:57] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:44:57] DEBUG::Game Window : Yeolid
+[16:44:57] DEBUG::Game Panel Resolution : 563x411
+[16:44:57] DEBUG::Move UP Point : 281x0
+[16:44:57] DEBUG::Move RIGHT Point : 531x205
+[16:44:57] DEBUG::Move DOWN Point : 281x348
+[16:44:57] DEBUG::Move LEFT Point : 28x205
+[16:44:57] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:44:57] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:44:57] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:44:57] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:45:39] DEBUG::Game Window : Yeolid
+[16:45:39] DEBUG::Game Panel Resolution : 563x411
+[16:45:39] DEBUG::Move UP Point : 281x0
+[16:45:39] DEBUG::Move RIGHT Point : 531x205
+[16:45:39] DEBUG::Move DOWN Point : 281x348
+[16:45:39] DEBUG::Move LEFT Point : 28x205
+[16:45:39] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:45:39] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:45:39] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:45:39] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:46:26] DEBUG::Game Window : Yeolid
+[16:46:26] DEBUG::Game Panel Resolution : 563x411
+[16:46:26] DEBUG::Move UP Point : 281x0
+[16:46:26] DEBUG::Move RIGHT Point : 531x205
+[16:46:26] DEBUG::Move DOWN Point : 281x348
+[16:46:26] DEBUG::Move LEFT Point : 28x205
+[16:46:26] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:46:26] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:46:26] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:46:26] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[17:53:14] DEBUG::Game Window : Yeolid
+[17:53:14] DEBUG::Game Panel Resolution : 563x411
+[17:53:14] DEBUG::Move UP Point : 281x0
+[17:53:14] DEBUG::Move RIGHT Point : 531x205
+[17:53:14] DEBUG::Move DOWN Point : 281x348
+[17:53:14] DEBUG::Move LEFT Point : 28x205
+[17:53:14] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[17:53:14] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[17:53:15] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[17:53:15] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:03:51] DEBUG::Game Window : Yeolid
+[18:03:51] DEBUG::Game Panel Resolution : 563x411
+[18:03:51] DEBUG::Move UP Point : 281x0
+[18:03:51] DEBUG::Move RIGHT Point : 531x205
+[18:03:51] DEBUG::Move DOWN Point : 281x348
+[18:03:51] DEBUG::Move LEFT Point : 28x205
+[18:03:51] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:03:51] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:03:51] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:03:51] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:08:33] DEBUG::Game Window : Yeolid
+[18:08:33] DEBUG::Game Panel Resolution : 563x411
+[18:08:33] DEBUG::Move UP Point : 281x0
+[18:08:33] DEBUG::Move RIGHT Point : 531x205
+[18:08:33] DEBUG::Move DOWN Point : 281x348
+[18:08:33] DEBUG::Move LEFT Point : 28x205
+[18:08:33] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:08:33] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:08:33] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:08:33] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:08:47] DEBUG::Game Window : Yeolid
+[18:08:47] DEBUG::Game Panel Resolution : 563x411
+[18:08:47] DEBUG::Move UP Point : 281x0
+[18:08:47] DEBUG::Move RIGHT Point : 531x205
+[18:08:47] DEBUG::Move DOWN Point : 281x348
+[18:08:47] DEBUG::Move LEFT Point : 28x205
+[18:08:47] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:08:47] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:08:47] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:08:47] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:08:58] DEBUG::Run Bot
+[18:08:58] Trajet : Click_Trajet_23-06-16_16-12-11
+[18:08:58] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[18:08:58] Action : Aucune
+[18:08:58] DEBUG::Step LeftClick::312x31
+[18:08:58] Erreur sur le trajet.
+[18:08:58] DEBUG::Suspend Bot
+[18:08:58] DEBUG::Cleaning Minimap
+[18:09:47] DEBUG::Run Bot
+[18:09:47] Trajet : Click_Trajet_23-06-16_16-12-11
+[18:09:47] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[18:09:47] Action : Aucune
+[18:09:48] DEBUG::Step LEFTCLICK::456x240
+[18:09:49] DEBUG::Cleaning Minimap
+[18:09:49] DEBUG::Step LEFTCLICK::313x57
+[18:09:50] DEBUG::Cleaning Minimap
+[18:09:51] DEBUG::Step LEFTCLICK::65x81
+[18:09:52] DEBUG::Cleaning Minimap
+[18:09:52] DEBUG::Step LEFTCLICK::143x311
+[18:09:53] DEBUG::Cleaning Minimap
+[18:09:54] DEBUG::Step DOOR::419x169
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:09:54] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 161 G: 182 B: 13)
+[18:09:54] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[18:09:54] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[18:09:54] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[18:10:04] La map ne change pas, veuillez vérifier/modifier le trajet.
+[18:10:04] DEBUG::Suspend Bot
+[18:10:04] DEBUG::Cleaning Minimap
+[18:11:35] DEBUG::Run Bot
+[18:11:35] Trajet : Click_Trajet_23-06-16_16-12-11
+[18:11:35] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[18:11:35] Action : Aucune
+[18:11:35] DEBUG::Step LEFTCLICK::310x301
+[18:11:36] DEBUG::Cleaning Minimap
+[18:11:37] DEBUG::Step WAIT::1000
+[18:11:38] DEBUG::Cleaning Minimap
+[18:11:39] DEBUG::Step WAIT::1000
+[18:11:40] DEBUG::Cleaning Minimap
+[18:11:40] DEBUG::Step WAIT::1000
+[18:11:41] DEBUG::Cleaning Minimap
+[18:11:42] DEBUG::Step WAIT::1000
+[18:11:43] DEBUG::Cleaning Minimap
+[18:11:43] DEBUG::Step LEFTCLICK::421x168
+[18:11:44] DEBUG::Cleaning Minimap
+[18:11:45] DEBUG::Step WAIT::1000
+[18:11:46] DEBUG::Cleaning Minimap
+[18:11:46] DEBUG::Closing PopUps
+[18:11:48] DEBUG::Step WAIT::1000
+[18:11:49] DEBUG::Cleaning Minimap
+[18:11:50] DEBUG::Step WAIT::1000
+[18:11:51] DEBUG::Cleaning Minimap
+[18:11:51] DEBUG::Step WAIT::1000
+[18:11:52] DEBUG::Cleaning Minimap
+[18:11:53] DEBUG::Step WAIT::1000
+[18:11:54] DEBUG::Cleaning Minimap
+[18:11:54] DEBUG::Step LEFTCLICK::354x127
+[18:11:55] DEBUG::Cleaning Minimap
+[18:11:56] DEBUG::Step LEFTCLICK::193x12
+[18:11:57] DEBUG::Cleaning Minimap
+[18:11:58] DEBUG::Step WAIT::1000
+[18:11:59] DEBUG::Cleaning Minimap
+[18:11:59] DEBUG::Step WAIT::1000
+[18:12:00] DEBUG::Cleaning Minimap
+[18:12:01] DEBUG::Step WAIT::1000
+[18:12:02] DEBUG::Cleaning Minimap
+[18:12:02] DEBUG::Step WAIT::1000
+[18:12:03] DEBUG::Cleaning Minimap
+[18:12:04] DEBUG::Step WAIT::1000
+[18:12:05] DEBUG::Cleaning Minimap
+[18:12:06] DEBUG::Step WAIT::1000
+[18:12:07] DEBUG::Cleaning Minimap
+[18:12:07] DEBUG::Step LEFTCLICK::62x189
+[18:12:08] DEBUG::Cleaning Minimap
+[18:12:09] DEBUG::Step WAIT::1000
+[18:12:10] DEBUG::Cleaning Minimap
+[18:12:10] DEBUG::Step WAIT::1000
+[18:12:11] DEBUG::Cleaning Minimap
+[18:12:12] DEBUG::Step WAIT::1000
+[18:12:13] DEBUG::Cleaning Minimap
+[18:12:14] DEBUG::Step WAIT::1000
+[18:12:15] DEBUG::Cleaning Minimap
+[18:12:15] DEBUG::Step WAIT::1000
+[18:12:16] DEBUG::Cleaning Minimap
+[18:12:17] DEBUG::Step LEFTCLICK::257x327
+[18:12:18] DEBUG::Cleaning Minimap
+[18:12:18] Trajet complété !
+[18:13:20] DEBUG::Game Window : Yeolid
+[18:13:20] DEBUG::Game Panel Resolution : 563x411
+[18:13:20] DEBUG::Move UP Point : 281x0
+[18:13:20] DEBUG::Move RIGHT Point : 531x205
+[18:13:20] DEBUG::Move DOWN Point : 281x348
+[18:13:20] DEBUG::Move LEFT Point : 28x205
+[18:13:20] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:13:20] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:13:20] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:13:20] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:13:25] DEBUG::Run Bot
+[18:13:25] Trajet : Click_Trajet_23-06-16_16-12-11
+[18:13:25] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[18:13:25] Action : Aucune
+[18:13:26] DEBUG::Step LEFTCLICK::310x301
+[18:13:27] DEBUG::Step WAIT::1000
+[18:13:29] DEBUG::Step WAIT::1000
+[18:13:30] DEBUG::Step WAIT::1000
+[18:13:32] DEBUG::Step WAIT::1000
+[18:13:33] DEBUG::Step LEFTCLICK::421x168
+[18:13:35] DEBUG::Step WAIT::1000
+[18:13:36] DEBUG::Closing PopUps
+[18:13:38] DEBUG::Step WAIT::1000
+[18:13:39] DEBUG::Step WAIT::1000
+[18:13:41] DEBUG::Step WAIT::1000
+[18:13:42] DEBUG::Step WAIT::1000
+[18:13:44] DEBUG::Step LEFTCLICK::354x127
+[18:13:45] DEBUG::Step LEFTCLICK::193x12
+[18:13:47] DEBUG::Step WAIT::1000
+[18:13:48] DEBUG::Step WAIT::1000
+[18:13:50] DEBUG::Step WAIT::1000
+[18:13:51] DEBUG::Step WAIT::1000
+[18:13:53] DEBUG::Step WAIT::1000
+[18:13:54] DEBUG::Step WAIT::1000
+[18:13:56] DEBUG::Step LEFTCLICK::62x189
+[18:13:57] DEBUG::Step WAIT::1000
+[18:13:59] DEBUG::Step WAIT::1000
+[18:14:00] DEBUG::Step WAIT::1000
+[18:14:02] DEBUG::Step WAIT::1000
+[18:14:03] DEBUG::Step WAIT::1000
+[18:14:05] DEBUG::Step LEFTCLICK::257x327
+[18:14:06] Trajet complété !

@@ -1,0 +1,3437 @@
+[11:45:22] DEBUG::Game Window : Yeolid
+[11:45:22] DEBUG::Game Panel Resolution : 563x411
+[11:45:22] DEBUG::Move UP Point : 281x0
+[11:45:22] DEBUG::Move RIGHT Point : 531x205
+[11:45:22] DEBUG::Move DOWN Point : 281x348
+[11:45:22] DEBUG::Move LEFT Point : 28x205
+[11:45:22] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[11:45:22] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[11:45:22] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[11:45:22] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[11:45:30] DEBUG::Run Bot
+[11:45:30] Trajet : Click_Trajet_23-06-16_16-12-11
+[11:45:30] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[11:45:30] Action : Aucune
+[11:45:30] DEBUG::Closing PopUps
+[11:45:32] DEBUG::Step LEFTCLICK::310x301
+[11:45:33] DEBUG::Step WAIT::1000
+[11:45:35] DEBUG::Step WAIT::1000
+[11:45:36] DEBUG::Step WAIT::1000
+[11:45:38] DEBUG::Step WAIT::1000
+[11:45:39] DEBUG::Step LEFTCLICK::421x168
+[11:45:41] DEBUG::Step WAIT::1000
+[11:45:42] DEBUG::Closing PopUps
+[11:45:43] DEBUG::Step WAIT::1000
+[11:45:44] DEBUG::Pause Bot
+[11:45:49] DEBUG::Resume Bot
+[11:45:50] DEBUG::Step WAIT::1000
+[11:45:51] DEBUG::Step WAIT::1000
+[11:45:53] DEBUG::Step WAIT::1000
+[11:45:54] DEBUG::Step LEFTCLICK::354x127
+[11:45:56] DEBUG::Closing PopUps
+[11:45:57] DEBUG::Step LEFTCLICK::193x12
+[11:45:59] DEBUG::Step WAIT::1000
+[11:46:00] DEBUG::Step WAIT::1000
+[11:46:02] DEBUG::Step WAIT::1000
+[11:46:03] DEBUG::Step WAIT::1000
+[11:46:04] DEBUG::Stop Bot
+[11:46:08] DEBUG::Run Bot
+[11:46:08] Trajet : Click_Trajet_23-06-16_16-12-11
+[11:46:08] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[11:46:08] Action : Aucune
+[11:46:08] DEBUG::Step LEFTCLICK::310x301
+[11:46:10] DEBUG::Step WAIT::1000
+[11:46:11] DEBUG::Stop Bot
+[11:49:31] DEBUG::Game Window : Yeolid
+[11:49:31] DEBUG::Game Panel Resolution : 563x411
+[11:49:31] DEBUG::Move UP Point : 281x0
+[11:49:31] DEBUG::Move RIGHT Point : 531x205
+[11:49:31] DEBUG::Move DOWN Point : 281x348
+[11:49:31] DEBUG::Move LEFT Point : 28x205
+[11:49:31] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[11:49:31] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[11:49:31] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[11:49:31] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[11:49:37] DEBUG::Run Bot
+[11:49:37] Trajet : Click_Trajet_23-06-16_16-12-11
+[11:49:37] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[11:49:37] Action : Aucune
+[11:49:38] DEBUG::Step LEFTCLICK::310x301
+[11:49:39] DEBUG::Step WAIT::1000
+[11:49:41] DEBUG::Step WAIT::1000
+[11:49:42] DEBUG::Step WAIT::1000
+[11:49:44] DEBUG::Step WAIT::1000
+[11:49:45] DEBUG::Step LEFTCLICK::421x168
+[11:49:47] DEBUG::Step WAIT::1000
+[11:49:48] DEBUG::Closing PopUps
+[11:49:50] DEBUG::Step WAIT::1000
+[11:49:51] DEBUG::Step WAIT::1000
+[11:49:53] DEBUG::Step WAIT::1000
+[11:49:54] DEBUG::Step WAIT::1000
+[11:49:56] DEBUG::Step LEFTCLICK::354x127
+[11:49:57] DEBUG::Closing PopUps
+[11:49:58] DEBUG::Step LEFTCLICK::193x12
+[11:50:00] DEBUG::Step WAIT::1000
+[11:50:00] DEBUG::Pause Bot
+[11:50:08] DEBUG::Resume Bot
+[11:50:08] DEBUG::Step WAIT::1000
+[11:50:10] DEBUG::Step WAIT::1000
+[11:50:11] DEBUG::Step WAIT::1000
+[11:50:13] DEBUG::Step WAIT::1000
+[11:50:15] DEBUG::Step WAIT::1000
+[11:50:16] DEBUG::Step LEFTCLICK::62x189
+[11:50:18] DEBUG::Step WAIT::1000
+[11:50:19] DEBUG::Stop Bot
+[11:50:38] DEBUG::Run Bot
+[11:50:38] Trajet : Click_Trajet_23-06-16_16-12-11
+[11:50:38] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[11:50:38] Action : Aucune
+[11:50:38] DEBUG::Step LEFTCLICK::310x301
+[11:50:40] DEBUG::Step WAIT::1000
+[11:50:41] DEBUG::Step WAIT::1000
+[11:50:43] DEBUG::Step WAIT::1000
+[11:50:43] DEBUG::Pause Bot
+[11:50:44] DEBUG::Stop Bot
+[11:50:59] DEBUG::Run Bot
+[11:50:59] Trajet : Click_Trajet_23-06-16_16-12-11
+[11:50:59] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[11:50:59] Action : Aucune
+[11:51:00] DEBUG::Step LEFTCLICK::310x301
+[11:51:01] DEBUG::Step WAIT::1000
+[11:51:03] DEBUG::Stop Bot
+[12:58:03] DEBUG::Game Window : Yeolid
+[12:58:03] DEBUG::Game Panel Resolution : 563x411
+[12:58:03] DEBUG::Move UP Point : 281x0
+[12:58:03] DEBUG::Move RIGHT Point : 531x205
+[12:58:03] DEBUG::Move DOWN Point : 281x348
+[12:58:03] DEBUG::Move LEFT Point : 28x205
+[12:58:03] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[12:58:03] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[12:58:03] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[12:58:03] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[12:58:10] DEBUG::Run Bot
+[12:58:10] Trajet : Click_Trajet_23-06-16_16-12-11
+[12:58:10] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[12:58:10] Action : Métier <Paysan> Ressource <Ble>
+[12:58:10] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:10] DEBUG::Resource Image : 0.bmp
+[12:58:10] DEBUG::Resource Image : 1.bmp
+[12:58:10] DEBUG::Resource Image : 10.bmp
+[12:58:10] DEBUG::Resource Image : 11.bmp
+[12:58:10] DEBUG::Resource Image : 12.bmp
+[12:58:11] DEBUG::Resource Image : 13.bmp
+[12:58:11] DEBUG::Resource Image : 14.bmp
+[12:58:11] DEBUG::Resource Image : 2.bmp
+[12:58:11] DEBUG::Resource Image : 3.bmp
+[12:58:11] DEBUG::Resource Image : 4.bmp
+[12:58:11] DEBUG::Resource Image : 5.bmp
+[12:58:11] DEBUG::Resource Image : 6.bmp
+[12:58:11] DEBUG::Resource Image : 7.bmp
+[12:58:11] DEBUG::Resource Image : 8.bmp
+[12:58:11] DEBUG::Resource Image : 9.bmp
+[12:58:12] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:12] DEBUG::Step LEFTCLICK::310x301
+[12:58:13] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:13] DEBUG::Resource Image : 0.bmp
+[12:58:14] DEBUG::Resource Image : 1.bmp
+[12:58:14] DEBUG::Resource Image : 10.bmp
+[12:58:14] DEBUG::Resource Image : 11.bmp
+[12:58:14] DEBUG::Resource Image : 12.bmp
+[12:58:14] DEBUG::Resource Image : 13.bmp
+[12:58:14] DEBUG::Resource Image : 14.bmp
+[12:58:14] DEBUG::Resource Image : 2.bmp
+[12:58:14] DEBUG::Resource Image : 3.bmp
+[12:58:14] DEBUG::Resource Image : 4.bmp
+[12:58:14] DEBUG::Resource Image : 5.bmp
+[12:58:15] DEBUG::Resource Image : 6.bmp
+[12:58:15] DEBUG::Resource Image : 7.bmp
+[12:58:15] DEBUG::Resource Image : 8.bmp
+[12:58:15] DEBUG::Resource Image : 9.bmp
+[12:58:15] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:15] DEBUG::Step WAIT::1000
+[12:58:16] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:17] DEBUG::Resource Image : 0.bmp
+[12:58:17] DEBUG::Resource Image : 1.bmp
+[12:58:17] DEBUG::Resource Image : 10.bmp
+[12:58:17] DEBUG::Resource Image : 11.bmp
+[12:58:17] DEBUG::Resource Image : 12.bmp
+[12:58:17] DEBUG::Resource Image : 13.bmp
+[12:58:17] DEBUG::Resource Image : 14.bmp
+[12:58:17] DEBUG::Resource Image : 2.bmp
+[12:58:18] DEBUG::Resource Image : 3.bmp
+[12:58:18] DEBUG::Resource Image : 4.bmp
+[12:58:18] DEBUG::Resource Image : 5.bmp
+[12:58:18] DEBUG::Resource Image : 6.bmp
+[12:58:18] DEBUG::Resource Image : 7.bmp
+[12:58:18] DEBUG::Resource Image : 8.bmp
+[12:58:18] DEBUG::Resource Image : 9.bmp
+[12:58:18] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:19] DEBUG::Step WAIT::1000
+[12:58:20] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:20] DEBUG::Resource Image : 0.bmp
+[12:58:20] DEBUG::Resource Image : 1.bmp
+[12:58:20] DEBUG::Resource Image : 10.bmp
+[12:58:20] DEBUG::Resource Image : 11.bmp
+[12:58:21] DEBUG::Resource Image : 12.bmp
+[12:58:21] DEBUG::Resource Image : 13.bmp
+[12:58:21] DEBUG::Resource Image : 14.bmp
+[12:58:21] DEBUG::Resource Image : 2.bmp
+[12:58:21] DEBUG::Resource Image : 3.bmp
+[12:58:21] DEBUG::Resource Image : 4.bmp
+[12:58:21] DEBUG::Resource Image : 5.bmp
+[12:58:21] DEBUG::Resource Image : 6.bmp
+[12:58:21] DEBUG::Resource Image : 7.bmp
+[12:58:21] DEBUG::Resource Image : 8.bmp
+[12:58:22] DEBUG::Resource Image : 9.bmp
+[12:58:22] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:22] DEBUG::Step WAIT::1000
+[12:58:23] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:23] DEBUG::Resource Image : 0.bmp
+[12:58:24] DEBUG::Resource Image : 1.bmp
+[12:58:24] DEBUG::Resource Image : 10.bmp
+[12:58:24] DEBUG::Resource Image : 11.bmp
+[12:58:24] DEBUG::Resource Image : 12.bmp
+[12:58:24] DEBUG::Resource Image : 13.bmp
+[12:58:24] DEBUG::Resource Image : 14.bmp
+[12:58:24] DEBUG::Resource Image : 2.bmp
+[12:58:24] DEBUG::Resource Image : 3.bmp
+[12:58:24] DEBUG::Resource Image : 4.bmp
+[12:58:24] DEBUG::Resource Image : 5.bmp
+[12:58:25] DEBUG::Resource Image : 6.bmp
+[12:58:25] DEBUG::Resource Image : 7.bmp
+[12:58:25] DEBUG::Resource Image : 8.bmp
+[12:58:25] DEBUG::Resource Image : 9.bmp
+[12:58:25] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:25] DEBUG::Step WAIT::1000
+[12:58:26] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:27] DEBUG::Resource Image : 0.bmp
+[12:58:27] DEBUG::Resource Image : 1.bmp
+[12:58:27] DEBUG::Resource Image : 10.bmp
+[12:58:27] DEBUG::Resource Image : 11.bmp
+[12:58:27] DEBUG::Resource Image : 12.bmp
+[12:58:27] DEBUG::Resource Image : 13.bmp
+[12:58:27] DEBUG::Resource Image : 14.bmp
+[12:58:27] DEBUG::Resource Image : 2.bmp
+[12:58:28] DEBUG::Resource Image : 3.bmp
+[12:58:28] DEBUG::Resource Image : 4.bmp
+[12:58:28] DEBUG::Resource Image : 5.bmp
+[12:58:28] DEBUG::Resource Image : 6.bmp
+[12:58:28] DEBUG::Resource Image : 7.bmp
+[12:58:28] DEBUG::Resource Image : 8.bmp
+[12:58:28] DEBUG::Resource Image : 9.bmp
+[12:58:28] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:29] DEBUG::Step LEFTCLICK::421x168
+[12:58:30] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:30] DEBUG::Resource Image : 0.bmp
+[12:58:30] DEBUG::Resource Image : 1.bmp
+[12:58:30] DEBUG::Resource Image : 10.bmp
+[12:58:30] DEBUG::Resource Image : 11.bmp
+[12:58:31] DEBUG::Resource Image : 12.bmp
+[12:58:31] DEBUG::Resource Image : 13.bmp
+[12:58:31] DEBUG::Resource Image : 14.bmp
+[12:58:31] DEBUG::Resource Image : 2.bmp
+[12:58:31] DEBUG::Resource Image : 3.bmp
+[12:58:31] DEBUG::Resource Image : 4.bmp
+[12:58:31] DEBUG::Resource Image : 5.bmp
+[12:58:31] DEBUG::Resource Image : 6.bmp
+[12:58:31] DEBUG::Resource Image : 7.bmp
+[12:58:31] DEBUG::Resource Image : 8.bmp
+[12:58:32] DEBUG::Resource Image : 9.bmp
+[12:58:32] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:32] DEBUG::Closing PopUps
+[12:58:33] DEBUG::Step WAIT::1000
+[12:58:34] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:35] DEBUG::Resource Image : 0.bmp
+[12:58:35] DEBUG::Resource Image : 1.bmp
+[12:58:35] DEBUG::Resource Image : 10.bmp
+[12:58:35] DEBUG::Resource Image : 11.bmp
+[12:58:35] DEBUG::Resource Image : 12.bmp
+[12:58:35] DEBUG::Resource Image : 13.bmp
+[12:58:36] DEBUG::Resource Image : 14.bmp
+[12:58:36] DEBUG::Resource Image : 2.bmp
+[12:58:36] DEBUG::Resource Image : 3.bmp
+[12:58:36] DEBUG::Resource Image : 4.bmp
+[12:58:36] DEBUG::Resource Image : 5.bmp
+[12:58:36] DEBUG::Resource Image : 6.bmp
+[12:58:36] DEBUG::Resource Image : 7.bmp
+[12:58:36] DEBUG::Resource Image : 8.bmp
+[12:58:36] DEBUG::Resource Image : 9.bmp
+[12:58:36] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:37] DEBUG::Step WAIT::1000
+[12:58:38] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:38] DEBUG::Resource Image : 0.bmp
+[12:58:38] DEBUG::Resource Image : 1.bmp
+[12:58:38] DEBUG::Resource Image : 10.bmp
+[12:58:39] DEBUG::Resource Image : 11.bmp
+[12:58:39] DEBUG::Resource Image : 12.bmp
+[12:58:39] DEBUG::Resource Image : 13.bmp
+[12:58:39] DEBUG::Resource Image : 14.bmp
+[12:58:39] DEBUG::Resource Image : 2.bmp
+[12:58:39] DEBUG::Resource Image : 3.bmp
+[12:58:39] DEBUG::Resource Image : 4.bmp
+[12:58:39] DEBUG::Resource Image : 5.bmp
+[12:58:39] DEBUG::Resource Image : 6.bmp
+[12:58:39] DEBUG::Resource Image : 7.bmp
+[12:58:40] DEBUG::Resource Image : 8.bmp
+[12:58:40] DEBUG::Resource Image : 9.bmp
+[12:58:40] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:58:40] DEBUG::Step WAIT::1000
+[12:58:41] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:58:42] DEBUG::Resource Image : 0.bmp
+[12:58:42] DEBUG::Resource Image : 1.bmp
+[12:58:42] DEBUG::Resource Image : 10.bmp
+[12:58:42] DEBUG::Resource Image : 11.bmp
+[12:58:42] DEBUG::Resource Image : 12.bmp
+[12:58:42] DEBUG::Resource Image : 13.bmp
+[12:58:42] DEBUG::Resource Image : 14.bmp
+[12:58:42] DEBUG::Resource Image : 2.bmp
+[12:58:42] DEBUG::Resource Image : 3.bmp
+[12:58:43] DEBUG::Resource Image : 4.bmp
+[12:58:43] DEBUG::Resource Image : 5.bmp
+[12:58:43] DEBUG::Resource Image : 6.bmp
+[12:58:43] DEBUG::Stop Bot
+[12:58:43] DEBUG::Cleaning Minimap
+[12:59:46] DEBUG::Run Bot
+[12:59:46] Trajet : Click_Trajet_23-06-16_16-12-11
+[12:59:46] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[12:59:46] Action : Métier <Paysan> Ressource <Ble>
+[12:59:46] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:59:46] DEBUG::Resource Image : 0.bmp
+[12:59:46] DEBUG::Resource Image : 1.bmp
+[12:59:47] DEBUG::Resource Image : 10.bmp
+[12:59:47] DEBUG::Resource Image : 11.bmp
+[12:59:47] DEBUG::Resource Image : 12.bmp
+[12:59:47] DEBUG::Resource Image : 13.bmp
+[12:59:47] DEBUG::Resource Image : 14.bmp
+[12:59:47] DEBUG::Resource Image : 2.bmp
+[12:59:47] DEBUG::Resource Image : 3.bmp
+[12:59:47] DEBUG::Resource Image : 4.bmp
+[12:59:47] DEBUG::Resource Image : 5.bmp
+[12:59:47] DEBUG::Resource Image : 6.bmp
+[12:59:48] DEBUG::Resource Image : 7.bmp
+[12:59:48] DEBUG::Resource Image : 8.bmp
+[12:59:48] DEBUG::Resource Image : 9.bmp
+[12:59:48] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[12:59:48] DEBUG::Step LEFTCLICK::310x301
+[12:59:49] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[12:59:50] DEBUG::Stop Bot
+[12:59:50] DEBUG::Cleaning Minimap
+[14:38:07] DEBUG::Game Window : Yeolid
+[14:38:07] DEBUG::Game Panel Resolution : 563x411
+[14:38:07] DEBUG::Move UP Point : 281x0
+[14:38:07] DEBUG::Move RIGHT Point : 531x205
+[14:38:07] DEBUG::Move DOWN Point : 281x348
+[14:38:07] DEBUG::Move LEFT Point : 28x205
+[14:38:07] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[14:38:07] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[14:38:07] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[14:38:07] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:04:44] DEBUG::Game Window : Yeolid
+[16:04:44] DEBUG::Game Panel Resolution : 563x411
+[16:04:44] DEBUG::Move UP Point : 281x0
+[16:04:44] DEBUG::Move RIGHT Point : 531x205
+[16:04:44] DEBUG::Move DOWN Point : 281x348
+[16:04:44] DEBUG::Move LEFT Point : 28x205
+[16:04:44] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:04:44] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:04:44] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:04:44] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:21:10] DEBUG::Game Window : Yeolid
+[16:21:10] DEBUG::Game Panel Resolution : 563x411
+[16:21:10] DEBUG::Move UP Point : 281x0
+[16:21:10] DEBUG::Move RIGHT Point : 531x205
+[16:21:10] DEBUG::Move DOWN Point : 281x348
+[16:21:10] DEBUG::Move LEFT Point : 28x205
+[16:21:10] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:21:10] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:21:10] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:21:10] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:21:29] DEBUG::Run Bot
+[16:21:29] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:21:29] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:21:29] Action : Métier <Paysan> Ressource <Ble>
+[16:21:29] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:21:29] DEBUG::Resource Image : 0.bmp
+[16:21:30] DEBUG::Resource Image : 1.bmp
+[16:21:30] DEBUG::Resource Image : 10.bmp
+[16:21:30] DEBUG::Resource Image : 11.bmp
+[16:21:30] DEBUG::Resource Image : 12.bmp
+[16:21:30] DEBUG::Resource Image : 13.bmp
+[16:21:30] DEBUG::Resource Image : 14.bmp
+[16:21:30] DEBUG::Resource Image : 16.bmp
+[16:21:30] DEBUG::Resource Location (X: 369 Y: 402)
+[16:21:30] DEBUG::Resource Image : 2.bmp
+[16:21:30] DEBUG::Resource Image : 3.bmp
+[16:21:30] DEBUG::Resource Image : 4.bmp
+[16:21:30] DEBUG::Resource Image : 5.bmp
+[16:21:30] DEBUG::Resource Image : 6.bmp
+[16:21:30] DEBUG::Resource Image : 7.bmp
+[16:21:30] DEBUG::Resource Image : 8.bmp
+[16:21:31] DEBUG::Resource Image : 9.bmp
+[16:21:31] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:21:39] DEBUG::CollectedResourceCount : 1
+----------------------------------------------------------------------------------------------------
+[16:23:45] DEBUG::Game Window : Yeolid
+[16:23:45] DEBUG::Game Panel Resolution : 563x411
+[16:23:45] DEBUG::Move UP Point : 281x0
+[16:23:45] DEBUG::Move RIGHT Point : 531x205
+[16:23:45] DEBUG::Move DOWN Point : 281x348
+[16:23:45] DEBUG::Move LEFT Point : 28x205
+[16:23:45] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:23:45] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:23:45] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:23:45] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:23:49] DEBUG::Run Bot
+[16:23:49] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:23:49] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:23:49] Action : Métier <Paysan> Ressource <Ble>
+[16:23:50] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:23:50] DEBUG::Resource Image : 0.bmp
+[16:23:50] DEBUG::Resource Image : 1.bmp
+[16:23:50] DEBUG::Resource Image : 10.bmp
+[16:23:50] DEBUG::Resource Image : 11.bmp
+[16:23:50] DEBUG::Resource Image : 12.bmp
+[16:23:50] DEBUG::Resource Image : 13.bmp
+[16:23:50] DEBUG::Resource Image : 14.bmp
+[16:23:50] DEBUG::Resource Image : 16.bmp
+[16:23:51] DEBUG::Resource Location (X: 369 Y: 402)
+[16:23:51] DEBUG::Resource Image : 2.bmp
+[16:23:51] DEBUG::Resource Image : 3.bmp
+[16:23:51] DEBUG::Resource Image : 4.bmp
+[16:23:51] DEBUG::Resource Image : 5.bmp
+[16:23:51] DEBUG::Resource Image : 6.bmp
+[16:23:51] DEBUG::Resource Image : 7.bmp
+[16:23:51] DEBUG::Resource Image : 8.bmp
+[16:23:51] DEBUG::Resource Image : 9.bmp
+[16:23:51] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:23:59] DEBUG::CollectedResourceCount : 1
+----------------------------------------------------------------------------------------------------
+[16:24:00] DEBUG::Execption occured : E:\Pixus\Pixus\bin\Debug\Others\inventaire.bmp
+[16:24:00] DEBUG::Closing PopUps
+[16:24:01] DEBUG::Step LEFTCLICK::310x301
+[16:24:02] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:24:03] DEBUG::Resource Image : 0.bmp
+[16:24:03] DEBUG::Resource Image : 1.bmp
+[16:24:03] DEBUG::Resource Image : 10.bmp
+[16:24:03] DEBUG::Resource Image : 11.bmp
+[16:24:03] DEBUG::Resource Image : 12.bmp
+[16:24:03] DEBUG::Resource Image : 13.bmp
+[16:24:03] DEBUG::Resource Image : 14.bmp
+[16:24:03] DEBUG::Resource Image : 16.bmp
+[16:24:03] DEBUG::Resource Location (X: 369 Y: 402)
+[16:24:03] DEBUG::Resource Image : 2.bmp
+[16:24:03] DEBUG::Resource Image : 3.bmp
+[16:24:03] DEBUG::Resource Image : 4.bmp
+[16:24:04] DEBUG::Resource Image : 5.bmp
+[16:24:04] DEBUG::Resource Image : 6.bmp
+[16:24:04] DEBUG::Resource Image : 7.bmp
+[16:24:04] DEBUG::Resource Image : 8.bmp
+[16:24:04] DEBUG::Resource Image : 9.bmp
+[16:24:04] DEBUG::Stop Bot
+[16:24:04] DEBUG::Execption occured : E:\Pixus\Pixus\bin\Debug\Others\inventaire.bmp
+[16:24:04] DEBUG::Cleaning Minimap
+[16:24:32] DEBUG::Game Window : Yeolid
+[16:24:32] DEBUG::Game Panel Resolution : 563x411
+[16:24:32] DEBUG::Move UP Point : 281x0
+[16:24:32] DEBUG::Move RIGHT Point : 531x205
+[16:24:32] DEBUG::Move DOWN Point : 281x348
+[16:24:32] DEBUG::Move LEFT Point : 28x205
+[16:24:32] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:24:32] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:24:32] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:24:32] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:24:35] DEBUG::Run Bot
+[16:24:35] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:24:35] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:24:35] Action : Métier <Paysan> Ressource <Ble>
+[16:24:35] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:24:36] DEBUG::Resource Image : 0.bmp
+[16:24:36] DEBUG::Resource Image : 1.bmp
+[16:24:36] DEBUG::Resource Image : 10.bmp
+[16:24:36] DEBUG::Resource Image : 11.bmp
+[16:24:36] DEBUG::Resource Image : 12.bmp
+[16:24:36] DEBUG::Resource Image : 13.bmp
+[16:24:36] DEBUG::Resource Image : 14.bmp
+[16:24:37] DEBUG::Resource Image : 16.bmp
+[16:24:37] DEBUG::Resource Location (X: 369 Y: 402)
+[16:24:37] DEBUG::Resource Image : 2.bmp
+[16:24:37] DEBUG::Resource Image : 3.bmp
+[16:24:37] DEBUG::Resource Image : 4.bmp
+[16:24:37] DEBUG::Resource Image : 5.bmp
+[16:24:37] DEBUG::Resource Image : 6.bmp
+[16:24:37] DEBUG::Resource Image : 7.bmp
+[16:24:37] DEBUG::Resource Image : 8.bmp
+[16:24:37] DEBUG::Resource Image : 9.bmp
+[16:24:38] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:24:46] DEBUG::CollectedResourceCount : 1
+----------------------------------------------------------------------------------------------------
+[16:24:47] DEBUG::Closing PopUps
+[16:24:48] DEBUG::Step LEFTCLICK::310x301
+[16:24:49] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:24:49] DEBUG::Resource Image : 0.bmp
+[16:24:49] DEBUG::Resource Image : 1.bmp
+[16:24:50] DEBUG::Resource Image : 10.bmp
+[16:24:50] DEBUG::Resource Image : 11.bmp
+[16:24:50] DEBUG::Resource Image : 12.bmp
+[16:24:50] DEBUG::Resource Image : 13.bmp
+[16:24:50] DEBUG::Resource Image : 14.bmp
+[16:24:50] DEBUG::Resource Image : 16.bmp
+[16:24:50] DEBUG::Resource Location (X: 369 Y: 402)
+[16:24:50] DEBUG::Resource Image : 2.bmp
+[16:24:50] DEBUG::Resource Image : 3.bmp
+[16:24:50] DEBUG::Resource Image : 4.bmp
+[16:24:51] DEBUG::Resource Image : 5.bmp
+[16:24:51] DEBUG::Resource Image : 6.bmp
+[16:24:51] DEBUG::Resource Image : 7.bmp
+[16:24:51] DEBUG::Resource Image : 8.bmp
+[16:24:51] DEBUG::Resource Image : 9.bmp
+[16:24:51] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:24:59] DEBUG::CollectedResourceCount : 2
+----------------------------------------------------------------------------------------------------
+[16:25:01] DEBUG::Step WAIT::1000
+[16:25:02] DEBUG::Cleaning Minimap
+[16:25:03] DEBUG::Closing PopUps
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:25:04] DEBUG::Resource Image : 0.bmp
+[16:25:04] DEBUG::Resource Image : 1.bmp
+[16:25:04] DEBUG::Resource Image : 10.bmp
+[16:25:05] DEBUG::Resource Image : 11.bmp
+[16:25:05] DEBUG::Resource Image : 12.bmp
+[16:25:05] DEBUG::Resource Image : 13.bmp
+[16:25:05] DEBUG::Resource Image : 14.bmp
+[16:25:05] DEBUG::Resource Image : 16.bmp
+[16:25:05] DEBUG::Resource Location (X: 369 Y: 402)
+[16:25:05] DEBUG::Resource Image : 2.bmp
+[16:25:05] DEBUG::Resource Image : 3.bmp
+[16:25:05] DEBUG::Resource Image : 4.bmp
+[16:25:05] DEBUG::Resource Image : 5.bmp
+[16:25:05] DEBUG::Resource Image : 6.bmp
+[16:25:06] DEBUG::Resource Image : 7.bmp
+[16:25:06] DEBUG::Resource Image : 8.bmp
+[16:25:06] DEBUG::Resource Image : 9.bmp
+[16:25:06] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:25:14] DEBUG::CollectedResourceCount : 3
+----------------------------------------------------------------------------------------------------
+[16:25:15] DEBUG::Closing PopUps
+[16:25:16] DEBUG::Step WAIT::1000
+[16:25:17] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:25:18] DEBUG::Resource Image : 0.bmp
+[16:25:18] DEBUG::Resource Image : 1.bmp
+[16:25:18] DEBUG::Resource Image : 10.bmp
+[16:25:18] DEBUG::Resource Image : 11.bmp
+[16:25:18] DEBUG::Resource Image : 12.bmp
+[16:25:18] DEBUG::Resource Image : 13.bmp
+[16:25:18] DEBUG::Resource Image : 14.bmp
+[16:25:18] DEBUG::Resource Image : 16.bmp
+[16:25:18] DEBUG::Resource Location (X: 369 Y: 402)
+[16:25:18] DEBUG::Resource Image : 2.bmp
+[16:25:19] DEBUG::Resource Image : 3.bmp
+[16:25:19] DEBUG::Resource Image : 4.bmp
+[16:25:19] DEBUG::Resource Image : 5.bmp
+[16:25:19] DEBUG::Resource Image : 6.bmp
+[16:25:19] DEBUG::Resource Image : 7.bmp
+[16:25:19] DEBUG::Resource Image : 8.bmp
+[16:25:19] DEBUG::Resource Image : 9.bmp
+[16:25:20] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:25:28] DEBUG::CollectedResourceCount : 4
+----------------------------------------------------------------------------------------------------
+[16:25:28] DEBUG::Closing PopUps
+[16:25:30] DEBUG::Step WAIT::1000
+[16:25:31] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:25:31] DEBUG::Resource Image : 0.bmp
+[16:25:31] DEBUG::Resource Image : 1.bmp
+[16:25:31] DEBUG::Resource Image : 10.bmp
+[16:25:31] DEBUG::Resource Image : 11.bmp
+[16:25:32] DEBUG::Resource Image : 12.bmp
+[16:25:32] DEBUG::Resource Image : 13.bmp
+[16:25:32] DEBUG::Resource Image : 14.bmp
+[16:25:32] DEBUG::Stop Bot
+[16:25:32] DEBUG::Cleaning Minimap
+[16:26:13] DEBUG::Game Window : Yeolid
+[16:26:13] DEBUG::Game Panel Resolution : 563x411
+[16:26:13] DEBUG::Move UP Point : 281x0
+[16:26:13] DEBUG::Move RIGHT Point : 531x205
+[16:26:13] DEBUG::Move DOWN Point : 281x348
+[16:26:13] DEBUG::Move LEFT Point : 28x205
+[16:26:13] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:26:13] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:26:13] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:26:13] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:26:24] DEBUG::Run Bot
+[16:26:24] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:26:24] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:26:24] Action : Métier <Paysan> Ressource <Ble>
+[16:26:24] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:26:25] DEBUG::Resource Image : 0.bmp
+[16:26:25] DEBUG::Resource Image : 1.bmp
+[16:26:25] DEBUG::Resource Image : 10.bmp
+[16:26:25] DEBUG::Resource Image : 11.bmp
+[16:26:25] DEBUG::Resource Image : 12.bmp
+[16:26:25] DEBUG::Resource Image : 13.bmp
+[16:26:25] DEBUG::Resource Image : 14.bmp
+[16:26:25] DEBUG::Resource Image : 16.bmp
+[16:26:25] DEBUG::Resource Location (X: 369 Y: 402)
+[16:26:25] DEBUG::Resource Image : 2.bmp
+[16:26:25] DEBUG::Resource Image : 3.bmp
+[16:26:25] DEBUG::Resource Image : 4.bmp
+[16:26:25] DEBUG::Resource Image : 5.bmp
+[16:26:25] DEBUG::Resource Image : 6.bmp
+[16:26:26] DEBUG::Resource Image : 7.bmp
+[16:26:26] DEBUG::Resource Image : 8.bmp
+[16:26:26] DEBUG::Resource Image : 9.bmp
+[16:26:26] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:26:34] DEBUG::CollectedResourceCount : 1
+----------------------------------------------------------------------------------------------------
+[16:26:35] DEBUG::Closing PopUps
+[16:26:36] DEBUG::Step LEFTCLICK::310x301
+[16:26:37] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:26:37] DEBUG::Resource Image : 0.bmp
+[16:26:37] DEBUG::Resource Image : 1.bmp
+[16:26:38] DEBUG::Resource Image : 10.bmp
+[16:26:38] DEBUG::Resource Image : 11.bmp
+[16:26:38] DEBUG::Resource Image : 12.bmp
+[16:26:38] DEBUG::Resource Image : 13.bmp
+[16:26:38] DEBUG::Resource Image : 14.bmp
+[16:26:38] DEBUG::Resource Image : 16.bmp
+[16:26:38] DEBUG::Resource Location (X: 369 Y: 402)
+[16:26:38] DEBUG::Resource Image : 2.bmp
+[16:26:38] DEBUG::Resource Image : 3.bmp
+[16:26:38] DEBUG::Resource Image : 4.bmp
+[16:26:38] DEBUG::Resource Image : 5.bmp
+[16:26:38] DEBUG::Resource Image : 6.bmp
+[16:26:38] DEBUG::Resource Image : 7.bmp
+[16:26:38] DEBUG::Resource Image : 8.bmp
+[16:26:38] DEBUG::Resource Image : 9.bmp
+[16:26:39] DEBUG::Collecting Resource (X: 369 Y: 402)
+[16:26:47] DEBUG::CollectedResourceCount : 2
+----------------------------------------------------------------------------------------------------
+[16:26:48] DEBUG::Pod PercentValue : 0
+[16:26:49] DEBUG::Closing PopUps
+[16:26:50] DEBUG::Stop Bot
+[16:26:50] DEBUG::Cleaning Minimap
+[16:30:40] DEBUG::Game Window : Yeolid
+[16:30:40] DEBUG::Game Panel Resolution : 563x411
+[16:30:40] DEBUG::Move UP Point : 281x0
+[16:30:40] DEBUG::Move RIGHT Point : 531x205
+[16:30:40] DEBUG::Move DOWN Point : 281x348
+[16:30:40] DEBUG::Move LEFT Point : 28x205
+[16:30:40] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:30:40] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:30:40] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:30:40] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:30:50] DEBUG::Run Bot
+[16:30:50] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:30:50] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:30:50] Action : Métier <Paysan> Ressource <Ble>
+[16:30:50] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:30:50] DEBUG::Resource Image : 0.bmp
+[16:30:50] DEBUG::Resource Image : 1.bmp
+[16:30:50] DEBUG::Resource Image : 10.bmp
+[16:30:50] DEBUG::Resource Image : 11.bmp
+[16:30:50] DEBUG::Resource Image : 12.bmp
+[16:30:50] DEBUG::Resource Image : 13.bmp
+[16:30:50] DEBUG::Resource Image : 14.bmp
+[16:30:51] DEBUG::Resource Image : 2.bmp
+[16:30:51] DEBUG::Resource Image : 3.bmp
+[16:30:51] DEBUG::Resource Image : 4.bmp
+[16:30:51] DEBUG::Resource Image : 5.bmp
+[16:30:51] DEBUG::Resource Image : 6.bmp
+[16:30:51] DEBUG::Resource Image : 7.bmp
+[16:30:51] DEBUG::Resource Image : 8.bmp
+[16:30:51] DEBUG::Resource Image : 9.bmp
+[16:30:51] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:30:53] DEBUG::Pod PercentValue : 0
+[16:30:53] DEBUG::Step LEFTCLICK::310x301
+[16:30:54] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:30:54] DEBUG::Resource Image : 0.bmp
+[16:30:54] DEBUG::Resource Image : 1.bmp
+[16:30:54] DEBUG::Resource Image : 10.bmp
+[16:30:54] DEBUG::Resource Image : 11.bmp
+[16:30:55] DEBUG::Resource Image : 12.bmp
+[16:30:55] DEBUG::Resource Image : 13.bmp
+[16:30:55] DEBUG::Resource Image : 14.bmp
+[16:30:55] DEBUG::Resource Image : 2.bmp
+[16:30:55] DEBUG::Resource Image : 3.bmp
+[16:30:55] DEBUG::Resource Image : 4.bmp
+[16:30:55] DEBUG::Resource Image : 5.bmp
+[16:30:55] DEBUG::Resource Image : 6.bmp
+[16:30:55] DEBUG::Resource Image : 7.bmp
+[16:30:55] DEBUG::Resource Image : 8.bmp
+[16:30:55] DEBUG::Resource Image : 9.bmp
+[16:30:55] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:30:56] DEBUG::Step WAIT::1000
+[16:30:57] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:30:57] DEBUG::Resource Image : 0.bmp
+[16:30:57] DEBUG::Resource Image : 1.bmp
+[16:30:57] DEBUG::Resource Image : 10.bmp
+[16:30:57] DEBUG::Resource Image : 11.bmp
+[16:30:57] DEBUG::Resource Image : 12.bmp
+[16:30:58] DEBUG::Resource Image : 13.bmp
+[16:30:58] DEBUG::Resource Image : 14.bmp
+[16:30:58] DEBUG::Resource Image : 2.bmp
+[16:30:58] DEBUG::Resource Image : 3.bmp
+[16:30:58] DEBUG::Resource Image : 4.bmp
+[16:30:58] DEBUG::Resource Image : 5.bmp
+[16:30:58] DEBUG::Resource Image : 6.bmp
+[16:30:58] DEBUG::Resource Image : 7.bmp
+[16:30:58] DEBUG::Resource Image : 8.bmp
+[16:30:58] DEBUG::Resource Image : 9.bmp
+[16:30:58] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:30:59] DEBUG::Step WAIT::1000
+[16:31:00] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:31:00] DEBUG::Resource Image : 0.bmp
+[16:31:00] DEBUG::Resource Image : 1.bmp
+[16:31:00] DEBUG::Resource Image : 10.bmp
+[16:31:00] DEBUG::Resource Image : 11.bmp
+[16:31:00] DEBUG::Resource Image : 12.bmp
+[16:31:01] DEBUG::Resource Image : 13.bmp
+[16:31:01] DEBUG::Resource Image : 14.bmp
+[16:31:01] DEBUG::Resource Image : 2.bmp
+[16:31:01] DEBUG::Resource Image : 3.bmp
+[16:31:01] DEBUG::Resource Image : 4.bmp
+[16:31:01] DEBUG::Resource Image : 5.bmp
+[16:31:01] DEBUG::Resource Image : 6.bmp
+[16:31:01] DEBUG::Resource Image : 7.bmp
+[16:31:01] DEBUG::Resource Image : 8.bmp
+[16:31:01] DEBUG::Resource Image : 9.bmp
+[16:31:01] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:31:02] DEBUG::Step WAIT::1000
+[16:31:03] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:31:03] DEBUG::Resource Image : 0.bmp
+[16:31:03] DEBUG::Resource Image : 1.bmp
+[16:31:03] DEBUG::Resource Image : 10.bmp
+[16:31:03] DEBUG::Resource Image : 11.bmp
+[16:31:03] DEBUG::Resource Image : 12.bmp
+[16:31:03] DEBUG::Resource Image : 13.bmp
+[16:31:04] DEBUG::Resource Image : 14.bmp
+[16:31:04] DEBUG::Resource Image : 2.bmp
+[16:31:04] DEBUG::Resource Image : 3.bmp
+[16:31:04] DEBUG::Resource Image : 4.bmp
+[16:31:04] DEBUG::Resource Image : 5.bmp
+[16:31:04] DEBUG::Resource Image : 6.bmp
+[16:31:04] DEBUG::Resource Image : 7.bmp
+[16:31:04] DEBUG::Resource Image : 8.bmp
+[16:31:04] DEBUG::Resource Image : 9.bmp
+[16:31:04] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:31:05] DEBUG::Step WAIT::1000
+[16:31:06] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:31:06] DEBUG::Resource Image : 0.bmp
+[16:31:06] DEBUG::Resource Image : 1.bmp
+[16:31:06] DEBUG::Resource Image : 10.bmp
+[16:31:06] DEBUG::Resource Image : 11.bmp
+[16:31:06] DEBUG::Resource Image : 12.bmp
+[16:31:06] DEBUG::Resource Image : 13.bmp
+[16:31:07] DEBUG::Resource Image : 14.bmp
+[16:31:07] DEBUG::Resource Image : 2.bmp
+[16:31:07] DEBUG::Resource Image : 3.bmp
+[16:31:07] DEBUG::Resource Image : 4.bmp
+[16:31:07] DEBUG::Resource Image : 5.bmp
+[16:31:07] DEBUG::Resource Image : 6.bmp
+[16:31:07] DEBUG::Resource Image : 7.bmp
+[16:31:07] DEBUG::Resource Image : 8.bmp
+[16:31:07] DEBUG::Resource Image : 9.bmp
+[16:31:07] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:31:08] DEBUG::Step LEFTCLICK::421x168
+[16:31:09] DEBUG::Cleaning Minimap
+[16:31:09] DEBUG::Stop Bot
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:31:10] DEBUG::Cleaning Minimap
+[16:32:35] DEBUG::Game Window : Yeolid
+[16:32:35] DEBUG::Game Panel Resolution : 563x411
+[16:32:35] DEBUG::Move UP Point : 281x0
+[16:32:35] DEBUG::Move RIGHT Point : 531x205
+[16:32:35] DEBUG::Move DOWN Point : 281x348
+[16:32:35] DEBUG::Move LEFT Point : 28x205
+[16:32:35] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:32:35] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:32:35] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:32:35] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:32:42] DEBUG::Run Bot
+[16:32:42] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:32:42] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:32:42] Action : Métier <Paysan> Ressource <Ble>
+[16:32:42] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:32:43] DEBUG::Resource Image : 0.bmp
+[16:32:43] DEBUG::Resource Image : 1.bmp
+[16:32:43] DEBUG::Resource Image : 10.bmp
+[16:32:43] DEBUG::Resource Image : 11.bmp
+[16:32:43] DEBUG::Resource Image : 12.bmp
+[16:32:43] DEBUG::Resource Image : 13.bmp
+[16:32:43] DEBUG::Resource Image : 14.bmp
+[16:32:43] DEBUG::Resource Image : 2.bmp
+[16:32:43] DEBUG::Resource Image : 3.bmp
+[16:32:43] DEBUG::Resource Image : 4.bmp
+[16:32:43] DEBUG::Resource Image : 5.bmp
+[16:32:43] DEBUG::Resource Image : 6.bmp
+[16:32:43] DEBUG::Resource Image : 7.bmp
+[16:32:43] DEBUG::Resource Image : 8.bmp
+[16:32:44] DEBUG::Resource Image : 9.bmp
+[16:32:44] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:32:45] DEBUG::Pod PodValue: 4 PercentValue: 0
+[16:32:46] DEBUG::Step LEFTCLICK::310x301
+[16:32:47] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:32:48] DEBUG::Resource Image : 0.bmp
+[16:32:48] DEBUG::Resource Image : 1.bmp
+[16:32:48] DEBUG::Resource Image : 10.bmp
+[16:32:48] DEBUG::Resource Image : 11.bmp
+[16:32:48] DEBUG::Resource Image : 12.bmp
+[16:32:48] DEBUG::Resource Image : 13.bmp
+[16:32:48] DEBUG::Resource Image : 14.bmp
+[16:32:48] DEBUG::Resource Image : 2.bmp
+[16:32:48] DEBUG::Resource Image : 3.bmp
+[16:32:48] DEBUG::Resource Image : 4.bmp
+[16:32:48] DEBUG::Resource Image : 5.bmp
+[16:32:49] DEBUG::Resource Image : 6.bmp
+[16:32:49] DEBUG::Resource Image : 7.bmp
+[16:32:49] DEBUG::Resource Image : 8.bmp
+[16:32:49] DEBUG::Resource Image : 9.bmp
+[16:32:49] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:32:49] DEBUG::Step WAIT::1000
+[16:32:50] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:32:51] DEBUG::Resource Image : 0.bmp
+[16:32:51] DEBUG::Resource Image : 1.bmp
+[16:32:51] DEBUG::Resource Image : 10.bmp
+[16:32:51] DEBUG::Resource Image : 11.bmp
+[16:32:51] DEBUG::Resource Image : 12.bmp
+[16:32:51] DEBUG::Resource Image : 13.bmp
+[16:32:51] DEBUG::Resource Image : 14.bmp
+[16:32:51] DEBUG::Resource Image : 2.bmp
+[16:32:51] DEBUG::Resource Image : 3.bmp
+[16:32:51] DEBUG::Resource Image : 4.bmp
+[16:32:51] DEBUG::Resource Image : 5.bmp
+[16:32:51] DEBUG::Resource Image : 6.bmp
+[16:32:52] DEBUG::Resource Image : 7.bmp
+[16:32:52] DEBUG::Resource Image : 8.bmp
+[16:32:52] DEBUG::Resource Image : 9.bmp
+[16:32:52] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:32:52] DEBUG::Step WAIT::1000
+[16:32:53] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:32:54] DEBUG::Resource Image : 0.bmp
+[16:32:54] DEBUG::Resource Image : 1.bmp
+[16:32:54] DEBUG::Resource Image : 10.bmp
+[16:32:54] DEBUG::Resource Image : 11.bmp
+[16:32:54] DEBUG::Resource Image : 12.bmp
+[16:32:54] DEBUG::Resource Image : 13.bmp
+[16:32:54] DEBUG::Resource Image : 14.bmp
+[16:32:54] DEBUG::Resource Image : 2.bmp
+[16:32:54] DEBUG::Resource Image : 3.bmp
+[16:32:54] DEBUG::Resource Image : 4.bmp
+[16:32:54] DEBUG::Resource Image : 5.bmp
+[16:32:54] DEBUG::Resource Image : 6.bmp
+[16:32:54] DEBUG::Resource Image : 7.bmp
+[16:32:55] DEBUG::Resource Image : 8.bmp
+[16:32:55] DEBUG::Resource Image : 9.bmp
+[16:32:55] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:32:55] DEBUG::Step WAIT::1000
+[16:32:56] DEBUG::Cleaning Minimap
+[16:32:56] DEBUG::Stop Bot
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:32:57] DEBUG::Cleaning Minimap
+[16:33:45] DEBUG::Game Window : Yeolid
+[16:33:45] DEBUG::Game Panel Resolution : 563x411
+[16:33:45] DEBUG::Move UP Point : 281x0
+[16:33:45] DEBUG::Move RIGHT Point : 531x205
+[16:33:45] DEBUG::Move DOWN Point : 281x348
+[16:33:45] DEBUG::Move LEFT Point : 28x205
+[16:33:45] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:33:45] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:33:45] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:33:45] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:33:53] DEBUG::Run Bot
+[16:33:53] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:33:53] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:33:53] Action : Métier <Paysan> Ressource <Ble>
+[16:33:53] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:33:53] DEBUG::Resource Image : 0.bmp
+[16:33:53] DEBUG::Resource Image : 1.bmp
+[16:33:53] DEBUG::Resource Image : 10.bmp
+[16:33:53] DEBUG::Resource Image : 11.bmp
+[16:33:54] DEBUG::Resource Image : 12.bmp
+[16:33:54] DEBUG::Resource Image : 13.bmp
+[16:33:54] DEBUG::Resource Image : 14.bmp
+[16:33:54] DEBUG::Resource Image : 2.bmp
+[16:33:54] DEBUG::Resource Image : 3.bmp
+[16:33:54] DEBUG::Resource Image : 4.bmp
+[16:33:54] DEBUG::Resource Image : 5.bmp
+[16:33:54] DEBUG::Resource Image : 6.bmp
+[16:33:54] DEBUG::Resource Image : 7.bmp
+[16:33:54] DEBUG::Resource Image : 8.bmp
+[16:33:54] DEBUG::Resource Image : 9.bmp
+[16:33:54] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:33:56] DEBUG::Pod PodValue: 4 PercentValue: 0
+[16:33:57] DEBUG::Step LEFTCLICK::310x301
+[16:33:58] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:33:58] DEBUG::Resource Image : 0.bmp
+[16:33:58] DEBUG::Resource Image : 1.bmp
+[16:33:59] DEBUG::Resource Image : 10.bmp
+[16:33:59] DEBUG::Resource Image : 11.bmp
+[16:33:59] DEBUG::Resource Image : 12.bmp
+[16:33:59] DEBUG::Resource Image : 13.bmp
+[16:33:59] DEBUG::Resource Image : 14.bmp
+[16:33:59] DEBUG::Resource Image : 2.bmp
+[16:33:59] DEBUG::Stop Bot
+[16:34:00] DEBUG::Pod PodValue: 4 PercentValue: 0
+[16:34:02] DEBUG::Cleaning Minimap
+[16:38:50] DEBUG::Game Window : Yeolid
+[16:38:51] DEBUG::Game Panel Resolution : 563x411
+[16:38:51] DEBUG::Move UP Point : 281x0
+[16:38:51] DEBUG::Move RIGHT Point : 531x205
+[16:38:51] DEBUG::Move DOWN Point : 281x348
+[16:38:51] DEBUG::Move LEFT Point : 28x205
+[16:38:51] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:38:51] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:38:51] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:38:51] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:38:57] DEBUG::Run Bot
+[16:38:57] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:38:57] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:38:57] Action : Métier <Paysan> Ressource <Ble>
+[16:38:57] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:38:58] DEBUG::Resource Image : 0.bmp
+[16:38:58] DEBUG::Resource Image : 1.bmp
+[16:38:58] DEBUG::Resource Image : 10.bmp
+[16:38:58] DEBUG::Resource Image : 11.bmp
+[16:38:58] DEBUG::Resource Image : 12.bmp
+[16:38:58] DEBUG::Resource Image : 13.bmp
+[16:38:58] DEBUG::Resource Image : 14.bmp
+[16:38:58] DEBUG::Resource Image : 2.bmp
+[16:38:59] DEBUG::Resource Image : 3.bmp
+[16:38:59] DEBUG::Resource Image : 4.bmp
+[16:38:59] DEBUG::Resource Image : 5.bmp
+[16:38:59] DEBUG::Resource Image : 6.bmp
+[16:38:59] DEBUG::Resource Image : 7.bmp
+[16:38:59] DEBUG::Resource Image : 8.bmp
+[16:38:59] DEBUG::Resource Image : 9.bmp
+[16:38:59] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:39:00] DEBUG::Step LEFTCLICK::310x301
+[16:39:01] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:39:01] DEBUG::Resource Image : 0.bmp
+[16:39:01] DEBUG::Resource Image : 1.bmp
+[16:39:02] DEBUG::Resource Image : 10.bmp
+[16:39:02] DEBUG::Resource Image : 11.bmp
+[16:39:02] DEBUG::Resource Image : 12.bmp
+[16:39:02] DEBUG::Resource Image : 13.bmp
+[16:39:02] DEBUG::Resource Image : 14.bmp
+[16:39:02] DEBUG::Resource Image : 2.bmp
+[16:39:02] DEBUG::Resource Image : 3.bmp
+[16:39:02] DEBUG::Resource Image : 4.bmp
+[16:39:02] DEBUG::Resource Image : 5.bmp
+[16:39:02] DEBUG::Resource Image : 6.bmp
+[16:39:03] DEBUG::Resource Image : 7.bmp
+[16:39:03] DEBUG::Resource Image : 8.bmp
+[16:39:03] DEBUG::Resource Image : 9.bmp
+[16:39:03] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:39:03] DEBUG::Step WAIT::1000
+[16:39:04] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:39:05] DEBUG::Resource Image : 0.bmp
+[16:39:05] DEBUG::Resource Image : 1.bmp
+[16:39:05] DEBUG::Resource Image : 10.bmp
+[16:39:05] DEBUG::Resource Image : 11.bmp
+[16:39:05] DEBUG::Resource Image : 12.bmp
+[16:39:05] DEBUG::Resource Image : 13.bmp
+[16:39:06] DEBUG::Resource Image : 14.bmp
+[16:39:06] DEBUG::Resource Image : 2.bmp
+[16:39:06] DEBUG::Resource Image : 3.bmp
+[16:39:06] DEBUG::Resource Image : 4.bmp
+[16:39:06] DEBUG::Resource Image : 5.bmp
+[16:39:06] DEBUG::Resource Image : 6.bmp
+[16:39:06] DEBUG::Resource Image : 7.bmp
+[16:39:06] DEBUG::Resource Image : 8.bmp
+[16:39:06] DEBUG::Resource Image : 9.bmp
+[16:39:06] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+[16:39:07] DEBUG::Step WAIT::1000
+[16:39:08] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:39:09] DEBUG::Resource Image : 0.bmp
+[16:39:09] DEBUG::Resource Image : 1.bmp
+[16:39:09] DEBUG::Resource Image : 10.bmp
+[16:39:09] DEBUG::Resource Image : 11.bmp
+[16:39:09] DEBUG::Resource Image : 12.bmp
+[16:39:09] DEBUG::Resource Image : 13.bmp
+[16:39:09] DEBUG::Resource Image : 14.bmp
+[16:39:09] DEBUG::Resource Image : 2.bmp
+[16:39:09] DEBUG::Resource Image : 3.bmp
+[16:39:09] DEBUG::Resource Image : 4.bmp
+[16:39:10] DEBUG::Resource Image : 5.bmp
+[16:39:10] DEBUG::Stop Bot
+[16:39:10] DEBUG::Cleaning Minimap
+[16:41:35] DEBUG::Game Window : Yeolid
+[16:41:35] DEBUG::Game Panel Resolution : 563x411
+[16:41:35] DEBUG::Move UP Point : 281x0
+[16:41:35] DEBUG::Move RIGHT Point : 531x205
+[16:41:35] DEBUG::Move DOWN Point : 281x348
+[16:41:35] DEBUG::Move LEFT Point : 28x205
+[16:41:35] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:41:35] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:41:35] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:41:35] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:41:44] DEBUG::Run Bot
+[16:41:44] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:41:44] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:41:44] Action : Métier <Paysan> Ressource <Ble>
+[16:41:44] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:41:44] DEBUG::Resource Image : 0.bmp
+[16:41:44] DEBUG::Resource Image : 1.bmp
+[16:41:44] DEBUG::Resource Image : 10.bmp
+[16:41:44] DEBUG::Resource Image : 11.bmp
+[16:41:44] DEBUG::Resource Image : 12.bmp
+[16:41:44] DEBUG::Resource Image : 13.bmp
+[16:41:45] DEBUG::Resource Image : 14.bmp
+[16:41:45] DEBUG::Resource Image : 2.bmp
+[16:41:45] DEBUG::Resource Image : 3.bmp
+[16:41:45] DEBUG::Resource Image : 4.bmp
+[16:41:45] DEBUG::Resource Image : 5.bmp
+[16:41:45] DEBUG::Resource Image : 6.bmp
+[16:41:45] DEBUG::Resource Image : 7.bmp
+[16:41:45] DEBUG::Resource Image : 8.bmp
+[16:41:45] DEBUG::Resource Image : 9.bmp
+[16:41:45] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:41:47] DEBUG::Pod PodValue: 4 PercentValue: 0
+[16:41:48] DEBUG::Step LEFTCLICK::310x301
+[16:41:49] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:41:49] DEBUG::Resource Image : 0.bmp
+[16:41:49] DEBUG::Resource Image : 1.bmp
+[16:41:49] DEBUG::Resource Image : 10.bmp
+[16:41:50] DEBUG::Resource Image : 11.bmp
+[16:41:50] DEBUG::Resource Image : 12.bmp
+[16:41:50] DEBUG::Resource Image : 13.bmp
+[16:41:50] DEBUG::Resource Image : 14.bmp
+[16:41:50] DEBUG::Resource Image : 2.bmp
+[16:41:50] DEBUG::Resource Image : 3.bmp
+[16:41:50] DEBUG::Resource Image : 4.bmp
+[16:41:50] DEBUG::Resource Image : 5.bmp
+[16:41:50] DEBUG::Resource Image : 6.bmp
+[16:41:50] DEBUG::Resource Image : 7.bmp
+[16:41:50] DEBUG::Resource Image : 8.bmp
+[16:41:50] DEBUG::Resource Image : 9.bmp
+[16:41:50] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:41:51] DEBUG::Step WAIT::1000
+[16:41:51] DEBUG::Stop Bot
+[16:41:52] DEBUG::Cleaning Minimap
+[16:43:43] DEBUG::Game Window : Yeolid
+[16:43:43] DEBUG::Game Panel Resolution : 563x411
+[16:43:43] DEBUG::Move UP Point : 281x0
+[16:43:43] DEBUG::Move RIGHT Point : 531x205
+[16:43:43] DEBUG::Move DOWN Point : 281x348
+[16:43:43] DEBUG::Move LEFT Point : 28x205
+[16:43:43] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:43:43] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:43:43] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:43:43] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:43:50] DEBUG::Run Bot
+[16:43:50] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:43:50] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:43:50] Action : Métier <Paysan> Ressource <Ble>
+[16:43:50] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:43:51] DEBUG::Resource Image : 0.bmp
+[16:43:51] DEBUG::Resource Image : 1.bmp
+[16:43:51] DEBUG::Resource Image : 10.bmp
+[16:43:51] DEBUG::Resource Image : 11.bmp
+[16:43:51] DEBUG::Resource Image : 12.bmp
+[16:43:51] DEBUG::Resource Image : 13.bmp
+[16:43:51] DEBUG::Resource Image : 14.bmp
+[16:43:51] DEBUG::Resource Image : 2.bmp
+[16:43:51] DEBUG::Resource Image : 3.bmp
+[16:43:51] DEBUG::Resource Image : 4.bmp
+[16:43:51] DEBUG::Resource Image : 5.bmp
+[16:43:52] DEBUG::Resource Image : 6.bmp
+[16:43:52] DEBUG::Resource Image : 7.bmp
+[16:43:52] DEBUG::Resource Image : 8.bmp
+[16:43:52] DEBUG::Resource Image : 9.bmp
+[16:43:52] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:43:53] DEBUG::Pod PodValue: 4 PercentValue: 0
+----------------------------------------------------------------------------------------------------
+[16:43:55] DEBUG::Step LEFTCLICK::310x301
+[16:43:56] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:43:56] DEBUG::Resource Image : 0.bmp
+[16:43:56] DEBUG::Resource Image : 1.bmp
+[16:43:56] DEBUG::Resource Image : 10.bmp
+[16:43:56] DEBUG::Resource Image : 11.bmp
+[16:43:56] DEBUG::Resource Image : 12.bmp
+[16:43:56] DEBUG::Resource Image : 13.bmp
+[16:43:56] DEBUG::Resource Image : 14.bmp
+[16:43:57] DEBUG::Resource Image : 2.bmp
+[16:43:57] DEBUG::Resource Image : 3.bmp
+[16:43:57] DEBUG::Resource Image : 4.bmp
+[16:43:57] DEBUG::Resource Image : 5.bmp
+[16:43:57] DEBUG::Resource Image : 6.bmp
+[16:43:57] DEBUG::Resource Image : 7.bmp
+[16:43:57] DEBUG::Resource Image : 8.bmp
+[16:43:57] DEBUG::Resource Image : 9.bmp
+[16:43:57] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:43:58] DEBUG::Step WAIT::1000
+[16:43:59] DEBUG::Stop Bot
+[16:43:59] DEBUG::Cleaning Minimap
+[16:45:13] DEBUG::Game Window : Yeolid
+[16:45:13] DEBUG::Game Panel Resolution : 563x411
+[16:45:13] DEBUG::Move UP Point : 281x0
+[16:45:13] DEBUG::Move RIGHT Point : 531x205
+[16:45:13] DEBUG::Move DOWN Point : 281x348
+[16:45:13] DEBUG::Move LEFT Point : 28x205
+[16:45:13] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:45:13] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:45:13] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:45:13] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:45:20] DEBUG::Run Bot
+[16:45:20] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:45:20] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:45:20] Action : Métier <Paysan> Ressource <Ble>
+[16:45:20] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:21] DEBUG::Resource Image : 0.bmp
+[16:45:21] DEBUG::Resource Image : 1.bmp
+[16:45:21] DEBUG::Resource Image : 10.bmp
+[16:45:21] DEBUG::Resource Image : 11.bmp
+[16:45:21] DEBUG::Resource Image : 12.bmp
+[16:45:21] DEBUG::Resource Image : 13.bmp
+[16:45:21] DEBUG::Resource Image : 14.bmp
+[16:45:21] DEBUG::Resource Image : 2.bmp
+[16:45:21] DEBUG::Resource Image : 3.bmp
+[16:45:21] DEBUG::Resource Image : 4.bmp
+[16:45:21] DEBUG::Resource Image : 5.bmp
+[16:45:21] DEBUG::Resource Image : 6.bmp
+[16:45:22] DEBUG::Resource Image : 7.bmp
+[16:45:22] DEBUG::Resource Image : 8.bmp
+[16:45:22] DEBUG::Resource Image : 9.bmp
+[16:45:22] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:23] DEBUG::Pod PodValue: 4 PercentValue: 0
+----------------------------------------------------------------------------------------------------
+[16:45:24] DEBUG::Step LEFTCLICK::310x301
+[16:45:25] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:26] DEBUG::Resource Image : 0.bmp
+[16:45:26] DEBUG::Resource Image : 1.bmp
+[16:45:26] DEBUG::Resource Image : 10.bmp
+[16:45:26] DEBUG::Resource Image : 11.bmp
+[16:45:26] DEBUG::Resource Image : 12.bmp
+[16:45:26] DEBUG::Resource Image : 13.bmp
+[16:45:26] DEBUG::Resource Image : 14.bmp
+[16:45:26] DEBUG::Resource Image : 2.bmp
+[16:45:27] DEBUG::Resource Image : 3.bmp
+[16:45:27] DEBUG::Resource Image : 4.bmp
+[16:45:27] DEBUG::Resource Image : 5.bmp
+[16:45:27] DEBUG::Resource Image : 6.bmp
+[16:45:27] DEBUG::Resource Image : 7.bmp
+[16:45:27] DEBUG::Resource Image : 8.bmp
+[16:45:27] DEBUG::Resource Image : 9.bmp
+[16:45:27] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:27] DEBUG::Step WAIT::1000
+[16:45:28] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:29] DEBUG::Resource Image : 0.bmp
+[16:45:29] DEBUG::Resource Image : 1.bmp
+[16:45:29] DEBUG::Resource Image : 10.bmp
+[16:45:29] DEBUG::Resource Image : 11.bmp
+[16:45:29] DEBUG::Resource Image : 12.bmp
+[16:45:29] DEBUG::Resource Image : 13.bmp
+[16:45:29] DEBUG::Resource Image : 14.bmp
+[16:45:29] DEBUG::Resource Image : 2.bmp
+[16:45:29] DEBUG::Resource Image : 3.bmp
+[16:45:30] DEBUG::Resource Image : 4.bmp
+[16:45:30] DEBUG::Resource Image : 5.bmp
+[16:45:30] DEBUG::Resource Image : 6.bmp
+[16:45:30] DEBUG::Resource Image : 7.bmp
+[16:45:30] DEBUG::Resource Image : 8.bmp
+[16:45:30] DEBUG::Resource Image : 9.bmp
+[16:45:30] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:30] DEBUG::Step WAIT::1000
+[16:45:31] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:32] DEBUG::Resource Image : 0.bmp
+[16:45:32] DEBUG::Stop Bot
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:45:33] DEBUG::Cleaning Minimap
+[16:48:01] DEBUG::Game Window : Yeolid
+[16:48:01] DEBUG::Game Panel Resolution : 563x411
+[16:48:01] DEBUG::Move UP Point : 281x0
+[16:48:01] DEBUG::Move RIGHT Point : 531x205
+[16:48:01] DEBUG::Move DOWN Point : 281x348
+[16:48:01] DEBUG::Move LEFT Point : 28x205
+[16:48:01] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:48:01] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:48:01] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:48:01] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:48:07] DEBUG::Run Bot
+[16:48:07] Trajet : Click_Trajet_23-06-16_16-12-11
+[16:48:07] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Click_Trajet_23-06-16_16-12-11.txt
+[16:48:07] Action : Métier <Paysan> Ressource <Ble>
+[16:48:07] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:07] DEBUG::Resource Image : 0.bmp
+[16:48:07] DEBUG::Resource Image : 1.bmp
+[16:48:08] DEBUG::Resource Image : 10.bmp
+[16:48:08] DEBUG::Resource Image : 11.bmp
+[16:48:08] DEBUG::Resource Image : 12.bmp
+[16:48:08] DEBUG::Resource Image : 13.bmp
+[16:48:08] DEBUG::Resource Image : 14.bmp
+[16:48:08] DEBUG::Resource Image : 2.bmp
+[16:48:08] DEBUG::Resource Image : 3.bmp
+[16:48:08] DEBUG::Resource Image : 4.bmp
+[16:48:08] DEBUG::Resource Image : 5.bmp
+[16:48:08] DEBUG::Resource Image : 6.bmp
+[16:48:08] DEBUG::Resource Image : 7.bmp
+[16:48:08] DEBUG::Resource Image : 8.bmp
+[16:48:08] DEBUG::Resource Image : 9.bmp
+[16:48:08] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:09] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:48:10] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:48:11] DEBUG::Step LEFTCLICK::310x301
+[16:48:12] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:13] DEBUG::Resource Image : 0.bmp
+[16:48:13] DEBUG::Resource Image : 1.bmp
+[16:48:13] DEBUG::Resource Image : 10.bmp
+[16:48:13] DEBUG::Resource Image : 11.bmp
+[16:48:13] DEBUG::Resource Image : 12.bmp
+[16:48:13] DEBUG::Resource Image : 13.bmp
+[16:48:13] DEBUG::Resource Image : 14.bmp
+[16:48:13] DEBUG::Resource Image : 2.bmp
+[16:48:13] DEBUG::Resource Image : 3.bmp
+[16:48:13] DEBUG::Resource Image : 4.bmp
+[16:48:13] DEBUG::Resource Image : 5.bmp
+[16:48:13] DEBUG::Resource Image : 6.bmp
+[16:48:13] DEBUG::Resource Image : 7.bmp
+[16:48:14] DEBUG::Resource Image : 8.bmp
+[16:48:14] DEBUG::Resource Image : 9.bmp
+[16:48:14] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:14] DEBUG::InvetaireLocation (X: 0 Y: 0)
+----------------------------------------------------------------------------------------------------
+[16:48:14] DEBUG::Step WAIT::1000
+[16:48:15] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:16] DEBUG::Resource Image : 0.bmp
+[16:48:16] DEBUG::Resource Image : 1.bmp
+[16:48:16] DEBUG::Resource Image : 10.bmp
+[16:48:16] DEBUG::Resource Image : 11.bmp
+[16:48:16] DEBUG::Resource Image : 12.bmp
+[16:48:16] DEBUG::Resource Image : 13.bmp
+[16:48:16] DEBUG::Resource Image : 14.bmp
+[16:48:16] DEBUG::Resource Image : 2.bmp
+[16:48:16] DEBUG::Resource Image : 3.bmp
+[16:48:16] DEBUG::Resource Image : 4.bmp
+[16:48:16] DEBUG::Resource Image : 5.bmp
+[16:48:16] DEBUG::Resource Image : 6.bmp
+[16:48:16] DEBUG::Resource Image : 7.bmp
+[16:48:16] DEBUG::Resource Image : 8.bmp
+[16:48:17] DEBUG::Resource Image : 9.bmp
+[16:48:17] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:17] DEBUG::InvetaireLocation (X: 0 Y: 0)
+----------------------------------------------------------------------------------------------------
+[16:48:17] DEBUG::Step WAIT::1000
+[16:48:18] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:19] DEBUG::Resource Image : 0.bmp
+[16:48:19] DEBUG::Resource Image : 1.bmp
+[16:48:19] DEBUG::Resource Image : 10.bmp
+[16:48:19] DEBUG::Resource Image : 11.bmp
+[16:48:19] DEBUG::Resource Image : 12.bmp
+[16:48:19] DEBUG::Resource Image : 13.bmp
+[16:48:19] DEBUG::Resource Image : 14.bmp
+[16:48:19] DEBUG::Resource Image : 2.bmp
+[16:48:19] DEBUG::Resource Image : 3.bmp
+[16:48:19] DEBUG::Resource Image : 4.bmp
+[16:48:19] DEBUG::Resource Image : 5.bmp
+[16:48:19] DEBUG::Resource Image : 6.bmp
+[16:48:19] DEBUG::Resource Image : 7.bmp
+[16:48:19] DEBUG::Resource Image : 8.bmp
+[16:48:20] DEBUG::Resource Image : 9.bmp
+[16:48:20] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:20] DEBUG::InvetaireLocation (X: 0 Y: 0)
+----------------------------------------------------------------------------------------------------
+[16:48:20] DEBUG::Step WAIT::1000
+[16:48:21] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:21] DEBUG::Resource Image : 0.bmp
+[16:48:22] DEBUG::Resource Image : 1.bmp
+[16:48:22] DEBUG::Resource Image : 10.bmp
+[16:48:22] DEBUG::Resource Image : 11.bmp
+[16:48:22] DEBUG::Resource Image : 12.bmp
+[16:48:22] DEBUG::Resource Image : 13.bmp
+[16:48:22] DEBUG::Resource Image : 14.bmp
+[16:48:22] DEBUG::Resource Image : 2.bmp
+[16:48:22] DEBUG::Resource Image : 3.bmp
+[16:48:22] DEBUG::Resource Image : 4.bmp
+[16:48:22] DEBUG::Resource Image : 5.bmp
+[16:48:22] DEBUG::Resource Image : 6.bmp
+[16:48:22] DEBUG::Resource Image : 7.bmp
+[16:48:22] DEBUG::Resource Image : 8.bmp
+[16:48:23] DEBUG::Resource Image : 9.bmp
+[16:48:23] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:48:23] DEBUG::InvetaireLocation (X: 0 Y: 0)
+----------------------------------------------------------------------------------------------------
+[16:48:23] DEBUG::Step WAIT::1000
+[16:48:24] DEBUG::Stop Bot
+[16:48:24] DEBUG::Cleaning Minimap
+[16:56:06] DEBUG::Game Window : Yeolid
+[16:56:06] DEBUG::Game Panel Resolution : 563x411
+[16:56:06] DEBUG::Move UP Point : 281x0
+[16:56:06] DEBUG::Move RIGHT Point : 531x205
+[16:56:06] DEBUG::Move DOWN Point : 281x348
+[16:56:06] DEBUG::Move LEFT Point : 28x205
+[16:56:06] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[16:56:06] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[16:56:06] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[16:56:06] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[16:56:19] DEBUG::Run Bot
+[16:56:19] Trajet : Trajet_13-06-16_18-40-10
+[16:56:19] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt
+[16:56:19] Action : Métier <Paysan> Ressource <Ble>
+[16:56:19] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:20] DEBUG::Resource Image : 0.bmp
+[16:56:20] DEBUG::Resource Image : 1.bmp
+[16:56:20] DEBUG::Resource Image : 10.bmp
+[16:56:20] DEBUG::Resource Image : 11.bmp
+[16:56:20] DEBUG::Resource Image : 12.bmp
+[16:56:20] DEBUG::Resource Image : 13.bmp
+[16:56:21] DEBUG::Resource Image : 14.bmp
+[16:56:21] DEBUG::Resource Image : 2.bmp
+[16:56:21] DEBUG::Resource Image : 3.bmp
+[16:56:21] DEBUG::Resource Image : 4.bmp
+[16:56:21] DEBUG::Resource Image : 5.bmp
+[16:56:21] DEBUG::Resource Image : 6.bmp
+[16:56:21] DEBUG::Resource Image : 7.bmp
+[16:56:21] DEBUG::Resource Image : 8.bmp
+[16:56:21] DEBUG::Resource Image : 9.bmp
+[16:56:21] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:22] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:56:23] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:56:24] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:24] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 161 G: 182 B: 13)
+[16:56:24] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[16:56:24] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[16:56:24] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[16:56:29] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:30] DEBUG::Resource Image : 0.bmp
+[16:56:30] DEBUG::Resource Image : 1.bmp
+[16:56:30] DEBUG::Resource Image : 10.bmp
+[16:56:30] DEBUG::Resource Image : 11.bmp
+[16:56:30] DEBUG::Resource Image : 12.bmp
+[16:56:31] DEBUG::Resource Image : 13.bmp
+[16:56:31] DEBUG::Resource Image : 14.bmp
+[16:56:31] DEBUG::Resource Image : 2.bmp
+[16:56:31] DEBUG::Resource Image : 3.bmp
+[16:56:31] DEBUG::Resource Image : 4.bmp
+[16:56:31] DEBUG::Resource Image : 5.bmp
+[16:56:31] DEBUG::Resource Image : 6.bmp
+[16:56:31] DEBUG::Resource Image : 7.bmp
+[16:56:31] DEBUG::Resource Image : 8.bmp
+[16:56:31] DEBUG::Resource Image : 9.bmp
+[16:56:32] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:32] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:56:33] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:56:34] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:34] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[16:56:34] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[16:56:34] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[16:56:34] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[16:56:38] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:39] DEBUG::Resource Image : 0.bmp
+[16:56:39] DEBUG::Resource Image : 1.bmp
+[16:56:39] DEBUG::Resource Image : 10.bmp
+[16:56:39] DEBUG::Resource Image : 11.bmp
+[16:56:39] DEBUG::Resource Image : 12.bmp
+[16:56:39] DEBUG::Resource Image : 13.bmp
+[16:56:40] DEBUG::Resource Image : 14.bmp
+[16:56:40] DEBUG::Resource Image : 2.bmp
+[16:56:40] DEBUG::Resource Image : 3.bmp
+[16:56:40] DEBUG::Resource Image : 4.bmp
+[16:56:40] DEBUG::Resource Image : 5.bmp
+[16:56:40] DEBUG::Resource Image : 6.bmp
+[16:56:40] DEBUG::Resource Image : 7.bmp
+[16:56:40] DEBUG::Resource Image : 8.bmp
+[16:56:40] DEBUG::Resource Image : 9.bmp
+[16:56:40] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:41] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:56:42] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:56:43] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:43] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[16:56:43] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[16:56:43] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[16:56:43] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[16:56:47] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:48] DEBUG::Resource Image : 0.bmp
+[16:56:48] DEBUG::Resource Image : 1.bmp
+[16:56:48] DEBUG::Resource Image : 10.bmp
+[16:56:48] DEBUG::Resource Image : 11.bmp
+[16:56:48] DEBUG::Resource Image : 12.bmp
+[16:56:48] DEBUG::Resource Image : 13.bmp
+[16:56:49] DEBUG::Resource Image : 14.bmp
+[16:56:49] DEBUG::Resource Image : 2.bmp
+[16:56:49] DEBUG::Resource Image : 3.bmp
+[16:56:49] DEBUG::Resource Image : 4.bmp
+[16:56:49] DEBUG::Resource Image : 5.bmp
+[16:56:49] DEBUG::Resource Image : 6.bmp
+[16:56:49] DEBUG::Resource Image : 7.bmp
+[16:56:49] DEBUG::Resource Image : 8.bmp
+[16:56:49] DEBUG::Resource Image : 9.bmp
+[16:56:49] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:50] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:56:51] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:56:52] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:56:52] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[16:56:52] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[16:56:52] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[16:56:52] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[16:56:58] DEBUG::Cleaning Minimap
+[16:56:58] Nombre min. de <Ble> collecté : 0
+[16:56:58] Trajet complété !
+[16:57:05] DEBUG::Run Bot
+[16:57:05] Trajet : Trajet_13-06-16_18-40-10
+[16:57:05] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt
+[16:57:05] Action : Métier <Paysan> Ressource <Ble>
+[16:57:05] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:06] DEBUG::Resource Image : 0.bmp
+[16:57:06] DEBUG::Resource Image : 1.bmp
+[16:57:06] DEBUG::Resource Image : 10.bmp
+[16:57:06] DEBUG::Resource Image : 11.bmp
+[16:57:06] DEBUG::Resource Image : 12.bmp
+[16:57:06] DEBUG::Resource Image : 13.bmp
+[16:57:06] DEBUG::Resource Image : 14.bmp
+[16:57:07] DEBUG::Resource Image : 2.bmp
+[16:57:07] DEBUG::Resource Image : 3.bmp
+[16:57:07] DEBUG::Resource Image : 4.bmp
+[16:57:07] DEBUG::Resource Image : 5.bmp
+[16:57:07] DEBUG::Resource Image : 6.bmp
+[16:57:07] DEBUG::Resource Image : 7.bmp
+[16:57:07] DEBUG::Resource Image : 8.bmp
+[16:57:07] DEBUG::Resource Image : 9.bmp
+[16:57:07] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:08] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:57:09] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:57:10] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:10] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 162 G: 183 B: 15)
+[16:57:10] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[16:57:10] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[16:57:10] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[16:57:15] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:16] DEBUG::Resource Image : 0.bmp
+[16:57:16] DEBUG::Resource Image : 1.bmp
+[16:57:16] DEBUG::Resource Image : 10.bmp
+[16:57:16] DEBUG::Resource Image : 11.bmp
+[16:57:16] DEBUG::Resource Image : 12.bmp
+[16:57:16] DEBUG::Resource Image : 13.bmp
+[16:57:16] DEBUG::Resource Image : 14.bmp
+[16:57:17] DEBUG::Resource Image : 2.bmp
+[16:57:17] DEBUG::Resource Image : 3.bmp
+[16:57:17] DEBUG::Resource Image : 4.bmp
+[16:57:17] DEBUG::Resource Image : 5.bmp
+[16:57:17] DEBUG::Resource Image : 6.bmp
+[16:57:17] DEBUG::Resource Image : 7.bmp
+[16:57:17] DEBUG::Resource Image : 8.bmp
+[16:57:17] DEBUG::Resource Image : 9.bmp
+[16:57:17] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:18] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:57:19] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:57:20] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:20] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[16:57:20] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[16:57:20] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[16:57:20] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[16:57:24] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:25] DEBUG::Resource Image : 0.bmp
+[16:57:25] DEBUG::Resource Image : 1.bmp
+[16:57:25] DEBUG::Resource Image : 10.bmp
+[16:57:25] DEBUG::Resource Image : 11.bmp
+[16:57:25] DEBUG::Resource Image : 12.bmp
+[16:57:25] DEBUG::Resource Image : 13.bmp
+[16:57:25] DEBUG::Resource Image : 14.bmp
+[16:57:26] DEBUG::Resource Image : 2.bmp
+[16:57:26] DEBUG::Resource Image : 3.bmp
+[16:57:26] DEBUG::Resource Image : 4.bmp
+[16:57:26] DEBUG::Resource Image : 5.bmp
+[16:57:26] DEBUG::Resource Image : 6.bmp
+[16:57:26] DEBUG::Resource Image : 7.bmp
+[16:57:26] DEBUG::Resource Image : 8.bmp
+[16:57:26] DEBUG::Resource Image : 9.bmp
+[16:57:26] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:27] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:57:28] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:57:29] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:29] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[16:57:29] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[16:57:29] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[16:57:29] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[16:57:32] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:33] DEBUG::Resource Image : 0.bmp
+[16:57:33] DEBUG::Resource Image : 1.bmp
+[16:57:33] DEBUG::Resource Image : 10.bmp
+[16:57:33] DEBUG::Resource Image : 11.bmp
+[16:57:33] DEBUG::Resource Image : 12.bmp
+[16:57:33] DEBUG::Resource Image : 13.bmp
+[16:57:33] DEBUG::Resource Image : 14.bmp
+[16:57:34] DEBUG::Resource Image : 2.bmp
+[16:57:34] DEBUG::Resource Image : 3.bmp
+[16:57:34] DEBUG::Resource Image : 4.bmp
+[16:57:34] DEBUG::Resource Image : 5.bmp
+[16:57:34] DEBUG::Resource Image : 6.bmp
+[16:57:34] DEBUG::Resource Image : 7.bmp
+[16:57:34] DEBUG::Resource Image : 8.bmp
+[16:57:34] DEBUG::Resource Image : 9.bmp
+[16:57:34] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:35] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[16:57:36] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[16:57:37] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[16:57:37] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[16:57:37] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[16:57:37] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[16:57:37] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[16:57:43] DEBUG::Cleaning Minimap
+[16:57:43] Nombre min. de <Ble> collecté : 0
+[16:57:43] Trajet complété !
+[17:08:56] DEBUG::Game Window : Yeolid
+[17:08:56] DEBUG::Game Panel Resolution : 563x411
+[17:08:56] DEBUG::Move UP Point : 281x0
+[17:08:56] DEBUG::Move RIGHT Point : 531x205
+[17:08:56] DEBUG::Move DOWN Point : 281x348
+[17:08:56] DEBUG::Move LEFT Point : 28x205
+[17:08:56] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[17:08:56] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[17:08:56] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[17:08:56] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[17:09:05] DEBUG::Run Bot
+[17:09:05] Trajet : Trajet_13-06-16_18-40-10
+[17:09:05] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt
+[17:09:05] Action : Métier <Paysan> Ressource <Ble>
+[17:09:05] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:06] DEBUG::Resource Image : 0.bmp
+[17:09:06] DEBUG::Resource Image : 1.bmp
+[17:09:06] DEBUG::Resource Image : 10.bmp
+[17:09:06] DEBUG::Resource Image : 11.bmp
+[17:09:06] DEBUG::Resource Image : 12.bmp
+[17:09:06] DEBUG::Resource Image : 13.bmp
+[17:09:06] DEBUG::Resource Image : 14.bmp
+[17:09:07] DEBUG::Resource Image : 2.bmp
+[17:09:07] DEBUG::Resource Image : 3.bmp
+[17:09:07] DEBUG::Resource Image : 4.bmp
+[17:09:07] DEBUG::Resource Image : 5.bmp
+[17:09:07] DEBUG::Resource Image : 6.bmp
+[17:09:07] DEBUG::Resource Image : 7.bmp
+[17:09:07] DEBUG::Resource Image : 8.bmp
+[17:09:07] DEBUG::Resource Image : 9.bmp
+[17:09:07] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:08] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:09:09] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:09:10] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:10] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 161 G: 182 B: 13)
+[17:09:10] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[17:09:10] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[17:09:10] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[17:09:15] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:16] DEBUG::Resource Image : 0.bmp
+[17:09:16] DEBUG::Resource Image : 1.bmp
+[17:09:16] DEBUG::Resource Image : 10.bmp
+[17:09:16] DEBUG::Resource Image : 11.bmp
+[17:09:16] DEBUG::Resource Image : 12.bmp
+[17:09:16] DEBUG::Resource Image : 13.bmp
+[17:09:16] DEBUG::Resource Image : 14.bmp
+[17:09:17] DEBUG::Resource Image : 2.bmp
+[17:09:17] DEBUG::Resource Image : 3.bmp
+[17:09:17] DEBUG::Resource Image : 4.bmp
+[17:09:17] DEBUG::Resource Image : 5.bmp
+[17:09:17] DEBUG::Resource Image : 6.bmp
+[17:09:17] DEBUG::Resource Image : 7.bmp
+[17:09:17] DEBUG::Resource Image : 8.bmp
+[17:09:17] DEBUG::Resource Image : 9.bmp
+[17:09:17] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:18] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:09:19] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:09:20] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:20] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[17:09:20] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[17:09:20] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[17:09:20] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[17:09:24] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:25] DEBUG::Resource Image : 0.bmp
+[17:09:25] DEBUG::Resource Image : 1.bmp
+[17:09:25] DEBUG::Resource Image : 10.bmp
+[17:09:25] DEBUG::Resource Image : 11.bmp
+[17:09:25] DEBUG::Resource Image : 12.bmp
+[17:09:25] DEBUG::Resource Image : 13.bmp
+[17:09:25] DEBUG::Resource Image : 14.bmp
+[17:09:25] DEBUG::Resource Image : 2.bmp
+[17:09:26] DEBUG::Resource Image : 3.bmp
+[17:09:26] DEBUG::Resource Image : 4.bmp
+[17:09:26] DEBUG::Resource Image : 5.bmp
+[17:09:26] DEBUG::Resource Image : 6.bmp
+[17:09:26] DEBUG::Resource Image : 7.bmp
+[17:09:26] DEBUG::Resource Image : 8.bmp
+[17:09:26] DEBUG::Resource Image : 9.bmp
+[17:09:26] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:27] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:09:28] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:09:29] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:29] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[17:09:29] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[17:09:29] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[17:09:29] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[17:09:33] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:34] DEBUG::Resource Image : 0.bmp
+[17:09:34] DEBUG::Resource Image : 1.bmp
+[17:09:34] DEBUG::Resource Image : 10.bmp
+[17:09:34] DEBUG::Resource Image : 11.bmp
+[17:09:34] DEBUG::Resource Image : 12.bmp
+[17:09:34] DEBUG::Resource Image : 13.bmp
+[17:09:34] DEBUG::Resource Image : 14.bmp
+[17:09:34] DEBUG::Resource Image : 2.bmp
+[17:09:35] DEBUG::Resource Image : 3.bmp
+[17:09:35] DEBUG::Resource Image : 4.bmp
+[17:09:35] DEBUG::Resource Image : 5.bmp
+[17:09:35] DEBUG::Resource Image : 6.bmp
+[17:09:35] DEBUG::Resource Image : 7.bmp
+[17:09:35] DEBUG::Resource Image : 8.bmp
+[17:09:35] DEBUG::Resource Image : 9.bmp
+[17:09:35] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:36] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:09:37] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:09:38] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:38] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[17:09:38] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[17:09:38] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[17:09:38] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[17:09:45] DEBUG::Cleaning Minimap
+[17:09:45] Nombre min. de <Ble> collecté : 0
+[17:09:45] Trajet complété !
+[17:09:52] DEBUG::Run Bot
+[17:09:52] Trajet : Trajet_13-06-16_18-40-10
+[17:09:52] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt
+[17:09:52] Action : Métier <Paysan> Ressource <Ble>
+[17:09:52] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:53] DEBUG::Resource Image : 0.bmp
+[17:09:53] DEBUG::Resource Image : 1.bmp
+[17:09:53] DEBUG::Resource Image : 10.bmp
+[17:09:53] DEBUG::Resource Image : 11.bmp
+[17:09:53] DEBUG::Resource Image : 12.bmp
+[17:09:53] DEBUG::Resource Image : 13.bmp
+[17:09:53] DEBUG::Resource Image : 14.bmp
+[17:09:53] DEBUG::Resource Image : 2.bmp
+[17:09:54] DEBUG::Resource Image : 3.bmp
+[17:09:54] DEBUG::Resource Image : 4.bmp
+[17:09:54] DEBUG::Resource Image : 5.bmp
+[17:09:54] DEBUG::Resource Image : 6.bmp
+[17:09:54] DEBUG::Resource Image : 7.bmp
+[17:09:54] DEBUG::Resource Image : 8.bmp
+[17:09:54] DEBUG::Resource Image : 9.bmp
+[17:09:54] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:09:55] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:09:55] DEBUG::Stop Bot
+----------------------------------------------------------------------------------------------------
+[17:09:56] DEBUG::Cleaning Minimap
+[17:11:29] DEBUG::Game Window : Yeolid
+[17:11:29] DEBUG::Game Panel Resolution : 563x411
+[17:11:29] DEBUG::Move UP Point : 281x0
+[17:11:29] DEBUG::Move RIGHT Point : 531x205
+[17:11:29] DEBUG::Move DOWN Point : 281x348
+[17:11:29] DEBUG::Move LEFT Point : 28x205
+[17:11:29] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[17:11:29] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[17:11:29] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[17:11:29] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[17:11:35] DEBUG::Run Bot
+[17:11:35] Trajet : Trajet_13-06-16_18-40-10
+[17:11:35] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt
+[17:11:35] Action : Métier <Paysan> Ressource <Ble>
+[17:11:35] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:35] DEBUG::Resource Image : 0.bmp
+[17:11:36] DEBUG::Resource Image : 1.bmp
+[17:11:36] DEBUG::Resource Image : 10.bmp
+[17:11:36] DEBUG::Resource Image : 11.bmp
+[17:11:36] DEBUG::Resource Image : 12.bmp
+[17:11:36] DEBUG::Resource Image : 13.bmp
+[17:11:36] DEBUG::Resource Image : 14.bmp
+[17:11:36] DEBUG::Resource Image : 2.bmp
+[17:11:36] DEBUG::Resource Image : 3.bmp
+[17:11:36] DEBUG::Resource Image : 4.bmp
+[17:11:36] DEBUG::Resource Image : 5.bmp
+[17:11:36] DEBUG::Resource Image : 6.bmp
+[17:11:36] DEBUG::Resource Image : 7.bmp
+[17:11:36] DEBUG::Resource Image : 8.bmp
+[17:11:36] DEBUG::Resource Image : 9.bmp
+[17:11:37] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:37] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:11:38] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:11:39] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:39] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 161 G: 182 B: 13)
+[17:11:39] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[17:11:39] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[17:11:39] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[17:11:45] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:46] DEBUG::Resource Image : 0.bmp
+[17:11:46] DEBUG::Resource Image : 1.bmp
+[17:11:46] DEBUG::Resource Image : 10.bmp
+[17:11:46] DEBUG::Resource Image : 11.bmp
+[17:11:46] DEBUG::Resource Image : 12.bmp
+[17:11:46] DEBUG::Resource Image : 13.bmp
+[17:11:46] DEBUG::Resource Image : 14.bmp
+[17:11:46] DEBUG::Resource Image : 2.bmp
+[17:11:46] DEBUG::Resource Image : 3.bmp
+[17:11:46] DEBUG::Resource Image : 4.bmp
+[17:11:46] DEBUG::Resource Image : 5.bmp
+[17:11:47] DEBUG::Resource Image : 6.bmp
+[17:11:47] DEBUG::Resource Image : 7.bmp
+[17:11:47] DEBUG::Resource Image : 8.bmp
+[17:11:47] DEBUG::Resource Image : 9.bmp
+[17:11:47] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:47] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:11:48] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:11:50] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:50] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[17:11:50] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[17:11:50] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[17:11:50] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[17:11:54] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:54] DEBUG::Resource Image : 0.bmp
+[17:11:54] DEBUG::Resource Image : 1.bmp
+[17:11:54] DEBUG::Resource Image : 10.bmp
+[17:11:54] DEBUG::Resource Image : 11.bmp
+[17:11:54] DEBUG::Resource Image : 12.bmp
+[17:11:54] DEBUG::Resource Image : 13.bmp
+[17:11:55] DEBUG::Resource Image : 14.bmp
+[17:11:55] DEBUG::Resource Image : 2.bmp
+[17:11:55] DEBUG::Resource Image : 3.bmp
+[17:11:55] DEBUG::Resource Image : 4.bmp
+[17:11:55] DEBUG::Resource Image : 5.bmp
+[17:11:55] DEBUG::Resource Image : 6.bmp
+[17:11:55] DEBUG::Resource Image : 7.bmp
+[17:11:55] DEBUG::Resource Image : 8.bmp
+[17:11:55] DEBUG::Resource Image : 9.bmp
+[17:11:55] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:55] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:11:57] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:11:58] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:11:58] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[17:11:58] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[17:11:58] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[17:11:58] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[17:12:01] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:01] DEBUG::Resource Image : 0.bmp
+[17:12:01] DEBUG::Resource Image : 1.bmp
+[17:12:01] DEBUG::Resource Image : 10.bmp
+[17:12:02] DEBUG::Resource Image : 11.bmp
+[17:12:02] DEBUG::Resource Image : 12.bmp
+[17:12:02] DEBUG::Resource Image : 13.bmp
+[17:12:02] DEBUG::Resource Image : 14.bmp
+[17:12:02] DEBUG::Resource Image : 2.bmp
+[17:12:02] DEBUG::Resource Image : 3.bmp
+[17:12:02] DEBUG::Resource Image : 4.bmp
+[17:12:02] DEBUG::Resource Image : 5.bmp
+[17:12:02] DEBUG::Resource Image : 6.bmp
+[17:12:02] DEBUG::Resource Image : 7.bmp
+[17:12:02] DEBUG::Resource Image : 8.bmp
+[17:12:02] DEBUG::Resource Image : 9.bmp
+[17:12:02] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:03] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:12:04] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:12:05] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:05] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[17:12:05] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[17:12:05] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[17:12:05] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[17:12:11] DEBUG::Cleaning Minimap
+[17:12:11] Nombre min. de <Ble> collecté : 0
+[17:12:11] Trajet complété !
+[17:12:31] DEBUG::Run Bot
+[17:12:31] Trajet : Trajet_13-06-16_18-40-10
+[17:12:31] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt
+[17:12:31] Action : Métier <Paysan> Ressource <Ble>
+[17:12:31] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:32] DEBUG::Resource Image : 0.bmp
+[17:12:32] DEBUG::Resource Image : 1.bmp
+[17:12:32] DEBUG::Resource Image : 10.bmp
+[17:12:32] DEBUG::Resource Image : 11.bmp
+[17:12:32] DEBUG::Resource Image : 12.bmp
+[17:12:32] DEBUG::Resource Image : 13.bmp
+[17:12:32] DEBUG::Resource Image : 14.bmp
+[17:12:32] DEBUG::Resource Image : 2.bmp
+[17:12:32] DEBUG::Resource Image : 3.bmp
+[17:12:33] DEBUG::Resource Image : 4.bmp
+[17:12:33] DEBUG::Resource Image : 5.bmp
+[17:12:33] DEBUG::Resource Image : 6.bmp
+[17:12:33] DEBUG::Resource Image : 7.bmp
+[17:12:33] DEBUG::Resource Image : 8.bmp
+[17:12:33] DEBUG::Resource Image : 9.bmp
+[17:12:33] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:33] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:12:34] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:12:36] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:36] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 162 G: 183 B: 15)
+[17:12:36] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[17:12:36] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[17:12:36] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[17:12:42] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:42] DEBUG::Resource Image : 0.bmp
+[17:12:42] DEBUG::Resource Image : 1.bmp
+[17:12:42] DEBUG::Resource Image : 10.bmp
+[17:12:42] DEBUG::Resource Image : 11.bmp
+[17:12:43] DEBUG::Resource Image : 12.bmp
+[17:12:43] DEBUG::Resource Image : 13.bmp
+[17:12:43] DEBUG::Resource Image : 14.bmp
+[17:12:43] DEBUG::Resource Image : 2.bmp
+[17:12:43] DEBUG::Resource Image : 3.bmp
+[17:12:43] DEBUG::Resource Image : 4.bmp
+[17:12:43] DEBUG::Resource Image : 5.bmp
+[17:12:43] DEBUG::Resource Image : 6.bmp
+[17:12:43] DEBUG::Resource Image : 7.bmp
+[17:12:43] DEBUG::Resource Image : 8.bmp
+[17:12:43] DEBUG::Resource Image : 9.bmp
+[17:12:43] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:44] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:12:45] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:12:46] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:46] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[17:12:46] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[17:12:46] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[17:12:46] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[17:12:50] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:51] DEBUG::Resource Image : 0.bmp
+[17:12:51] DEBUG::Resource Image : 1.bmp
+[17:12:51] DEBUG::Resource Image : 10.bmp
+[17:12:51] DEBUG::Resource Image : 11.bmp
+[17:12:51] DEBUG::Resource Image : 12.bmp
+[17:12:51] DEBUG::Resource Image : 13.bmp
+[17:12:51] DEBUG::Resource Image : 14.bmp
+[17:12:51] DEBUG::Resource Image : 2.bmp
+[17:12:51] DEBUG::Resource Image : 3.bmp
+[17:12:51] DEBUG::Resource Image : 4.bmp
+[17:12:51] DEBUG::Resource Image : 5.bmp
+[17:12:51] DEBUG::Resource Image : 6.bmp
+[17:12:51] DEBUG::Resource Image : 7.bmp
+[17:12:52] DEBUG::Resource Image : 8.bmp
+[17:12:52] DEBUG::Resource Image : 9.bmp
+[17:12:52] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:52] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:12:53] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:12:54] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:54] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[17:12:54] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[17:12:54] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[17:12:54] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[17:12:58] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:12:59] DEBUG::Resource Image : 0.bmp
+[17:12:59] DEBUG::Resource Image : 1.bmp
+[17:12:59] DEBUG::Resource Image : 10.bmp
+[17:12:59] DEBUG::Resource Image : 11.bmp
+[17:12:59] DEBUG::Resource Image : 12.bmp
+[17:12:59] DEBUG::Resource Image : 13.bmp
+[17:12:59] DEBUG::Resource Image : 14.bmp
+[17:12:59] DEBUG::Resource Image : 2.bmp
+[17:12:59] DEBUG::Resource Image : 3.bmp
+[17:13:00] DEBUG::Resource Image : 4.bmp
+[17:13:00] DEBUG::Resource Image : 5.bmp
+[17:13:00] DEBUG::Resource Image : 6.bmp
+[17:13:00] DEBUG::Resource Image : 7.bmp
+[17:13:00] DEBUG::Resource Image : 8.bmp
+[17:13:00] DEBUG::Resource Image : 9.bmp
+[17:13:00] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:13:00] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[17:13:01] DEBUG::Pod PodValue: 4 PercentValue: 4
+----------------------------------------------------------------------------------------------------
+[17:13:03] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[17:13:03] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[17:13:03] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[17:13:03] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[17:13:03] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[17:13:09] DEBUG::Cleaning Minimap
+[17:13:09] Nombre min. de <Ble> collecté : 0
+[17:13:09] Trajet complété !
+[18:16:50] DEBUG::Game Window : Yeolid
+[18:16:50] DEBUG::Game Panel Resolution : 563x411
+[18:16:50] DEBUG::Move UP Point : 281x0
+[18:16:50] DEBUG::Move RIGHT Point : 531x205
+[18:16:50] DEBUG::Move DOWN Point : 281x348
+[18:16:50] DEBUG::Move LEFT Point : 28x205
+[18:16:50] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:16:50] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:16:50] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:16:50] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:17:03] DEBUG::Run Bot
+[18:17:03] Trajet : Trajet_13-06-16_18-40-10
+[18:17:03] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt Repeat: false
+[18:17:03] Action : Métier <Paysan> Ressource <Ble>
+[18:17:03] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:04] DEBUG::Resource Image : 0.bmp
+[18:17:04] DEBUG::Resource Image : 1.bmp
+[18:17:04] DEBUG::Resource Image : 10.bmp
+[18:17:04] DEBUG::Resource Image : 11.bmp
+[18:17:04] DEBUG::Resource Image : 12.bmp
+[18:17:04] DEBUG::Resource Image : 13.bmp
+[18:17:04] DEBUG::Resource Image : 14.bmp
+[18:17:04] DEBUG::Resource Image : 2.bmp
+[18:17:05] DEBUG::Resource Image : 3.bmp
+[18:17:05] DEBUG::Resource Image : 4.bmp
+[18:17:05] DEBUG::Resource Image : 5.bmp
+[18:17:05] DEBUG::Resource Image : 6.bmp
+[18:17:05] DEBUG::Resource Image : 7.bmp
+[18:17:05] DEBUG::Resource Image : 8.bmp
+[18:17:05] DEBUG::Resource Image : 9.bmp
+[18:17:05] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:06] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:17:07] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:08] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:17:08] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:08] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 161 G: 182 B: 13)
+[18:17:08] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[18:17:08] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[18:17:08] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[18:17:14] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:15] DEBUG::Resource Image : 0.bmp
+[18:17:15] DEBUG::Resource Image : 1.bmp
+[18:17:15] DEBUG::Resource Image : 10.bmp
+[18:17:15] DEBUG::Resource Image : 11.bmp
+[18:17:15] DEBUG::Resource Image : 12.bmp
+[18:17:15] DEBUG::Resource Image : 13.bmp
+[18:17:15] DEBUG::Resource Image : 14.bmp
+[18:17:15] DEBUG::Resource Image : 2.bmp
+[18:17:16] DEBUG::Resource Image : 3.bmp
+[18:17:16] DEBUG::Resource Image : 4.bmp
+[18:17:16] DEBUG::Resource Image : 5.bmp
+[18:17:16] DEBUG::Resource Image : 6.bmp
+[18:17:16] DEBUG::Resource Image : 7.bmp
+[18:17:16] DEBUG::Resource Image : 8.bmp
+[18:17:16] DEBUG::Resource Image : 9.bmp
+[18:17:16] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:17] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:17:18] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:19] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:17:19] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:19] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[18:17:19] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[18:17:19] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[18:17:19] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[18:17:23] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:24] DEBUG::Resource Image : 0.bmp
+[18:17:24] DEBUG::Resource Image : 1.bmp
+[18:17:24] DEBUG::Resource Image : 10.bmp
+[18:17:24] DEBUG::Resource Image : 11.bmp
+[18:17:24] DEBUG::Resource Image : 12.bmp
+[18:17:24] DEBUG::Resource Image : 13.bmp
+[18:17:24] DEBUG::Resource Image : 14.bmp
+[18:17:25] DEBUG::Resource Image : 2.bmp
+[18:17:25] DEBUG::Resource Image : 3.bmp
+[18:17:25] DEBUG::Resource Image : 4.bmp
+[18:17:25] DEBUG::Resource Image : 5.bmp
+[18:17:25] DEBUG::Resource Image : 6.bmp
+[18:17:25] DEBUG::Resource Image : 7.bmp
+[18:17:25] DEBUG::Resource Image : 8.bmp
+[18:17:25] DEBUG::Resource Image : 9.bmp
+[18:17:25] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:26] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:17:27] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:28] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:17:28] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:28] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[18:17:28] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[18:17:28] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[18:17:28] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[18:17:32] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:33] DEBUG::Resource Image : 0.bmp
+[18:17:33] DEBUG::Resource Image : 1.bmp
+[18:17:33] DEBUG::Resource Image : 10.bmp
+[18:17:33] DEBUG::Resource Image : 11.bmp
+[18:17:33] DEBUG::Resource Image : 12.bmp
+[18:17:33] DEBUG::Resource Image : 13.bmp
+[18:17:33] DEBUG::Resource Image : 14.bmp
+[18:17:34] DEBUG::Resource Image : 2.bmp
+[18:17:34] DEBUG::Resource Image : 3.bmp
+[18:17:34] DEBUG::Resource Image : 4.bmp
+[18:17:34] DEBUG::Resource Image : 5.bmp
+[18:17:34] DEBUG::Resource Image : 6.bmp
+[18:17:34] DEBUG::Resource Image : 7.bmp
+[18:17:34] DEBUG::Resource Image : 8.bmp
+[18:17:34] DEBUG::Resource Image : 9.bmp
+[18:17:34] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:35] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:17:36] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:37] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:17:37] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:37] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[18:17:37] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[18:17:37] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[18:17:37] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[18:17:45] DEBUG::Cleaning Minimap
+[18:17:45] Nombre min. de <Ble> collecté : 0
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoAtelier---------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:17:45] DEBUG::GoAtelier disabled.
+----------------------------------------------------------------------------------------------------
+[18:17:45] Temps écoulé : 00:00:42
+[18:17:45] Trajet complété !
+[18:18:18] DEBUG::Run Bot
+[18:18:18] Trajet : Trajet_13-06-16_18-40-10
+[18:18:18] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt Repeat: true
+[18:18:18] Action : Métier <Paysan> Ressource <Ble>
+[18:18:18] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:18] DEBUG::Resource Image : 0.bmp
+[18:18:18] DEBUG::Resource Image : 1.bmp
+[18:18:18] DEBUG::Resource Image : 10.bmp
+[18:18:19] DEBUG::Resource Image : 11.bmp
+[18:18:19] DEBUG::Resource Image : 12.bmp
+[18:18:19] DEBUG::Resource Image : 13.bmp
+[18:18:19] DEBUG::Resource Image : 14.bmp
+[18:18:19] DEBUG::Resource Image : 2.bmp
+[18:18:19] DEBUG::Resource Image : 3.bmp
+[18:18:19] DEBUG::Resource Image : 4.bmp
+[18:18:19] DEBUG::Resource Image : 5.bmp
+[18:18:19] DEBUG::Resource Image : 6.bmp
+[18:18:19] DEBUG::Resource Image : 7.bmp
+[18:18:19] DEBUG::Resource Image : 8.bmp
+[18:18:20] DEBUG::Resource Image : 9.bmp
+[18:18:20] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:20] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:18:21] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:22] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:18:23] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:23] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 162 G: 183 B: 15)
+[18:18:23] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[18:18:23] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[18:18:23] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[18:18:28] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:28] DEBUG::Resource Image : 0.bmp
+[18:18:28] DEBUG::Resource Image : 1.bmp
+[18:18:28] DEBUG::Resource Image : 10.bmp
+[18:18:29] DEBUG::Resource Image : 11.bmp
+[18:18:29] DEBUG::Resource Image : 12.bmp
+[18:18:29] DEBUG::Resource Image : 13.bmp
+[18:18:29] DEBUG::Resource Image : 14.bmp
+[18:18:29] DEBUG::Resource Image : 2.bmp
+[18:18:29] DEBUG::Resource Image : 3.bmp
+[18:18:29] DEBUG::Resource Image : 4.bmp
+[18:18:29] DEBUG::Resource Image : 5.bmp
+[18:18:29] DEBUG::Resource Image : 6.bmp
+[18:18:29] DEBUG::Resource Image : 7.bmp
+[18:18:30] DEBUG::Resource Image : 8.bmp
+[18:18:30] DEBUG::Resource Image : 9.bmp
+[18:18:30] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:30] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:18:31] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:32] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:18:33] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:33] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[18:18:33] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[18:18:33] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[18:18:33] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[18:18:37] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:37] DEBUG::Resource Image : 0.bmp
+[18:18:37] DEBUG::Resource Image : 1.bmp
+[18:18:37] DEBUG::Resource Image : 10.bmp
+[18:18:38] DEBUG::Resource Image : 11.bmp
+[18:18:38] DEBUG::Resource Image : 12.bmp
+[18:18:38] DEBUG::Resource Image : 13.bmp
+[18:18:38] DEBUG::Resource Image : 14.bmp
+[18:18:38] DEBUG::Resource Image : 2.bmp
+[18:18:38] DEBUG::Resource Image : 3.bmp
+[18:18:38] DEBUG::Resource Image : 4.bmp
+[18:18:38] DEBUG::Resource Image : 5.bmp
+[18:18:38] DEBUG::Resource Image : 6.bmp
+[18:18:38] DEBUG::Resource Image : 7.bmp
+[18:18:39] DEBUG::Resource Image : 8.bmp
+[18:18:39] DEBUG::Resource Image : 9.bmp
+[18:18:39] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:39] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:18:40] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:41] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:18:42] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:42] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[18:18:42] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[18:18:42] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[18:18:42] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[18:18:46] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:46] DEBUG::Resource Image : 0.bmp
+[18:18:46] DEBUG::Resource Image : 1.bmp
+[18:18:47] DEBUG::Resource Image : 10.bmp
+[18:18:47] DEBUG::Resource Image : 11.bmp
+[18:18:47] DEBUG::Resource Image : 12.bmp
+[18:18:47] DEBUG::Resource Image : 13.bmp
+[18:18:47] DEBUG::Resource Image : 14.bmp
+[18:18:47] DEBUG::Resource Image : 2.bmp
+[18:18:47] DEBUG::Resource Image : 3.bmp
+[18:18:47] DEBUG::Resource Image : 4.bmp
+[18:18:47] DEBUG::Resource Image : 5.bmp
+[18:18:47] DEBUG::Resource Image : 6.bmp
+[18:18:48] DEBUG::Resource Image : 7.bmp
+[18:18:48] DEBUG::Resource Image : 8.bmp
+[18:18:48] DEBUG::Resource Image : 9.bmp
+[18:18:48] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:48] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:18:49] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:50] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:18:51] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:51] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[18:18:51] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[18:18:51] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[18:18:51] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[18:18:58] DEBUG::Cleaning Minimap
+[18:18:58] Nombre min. de <Ble> collecté : 0
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoAtelier---------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:58] DEBUG::GoAtelier disabled.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:18:58] DEBUG::Resource Image : 0.bmp
+[18:18:58] DEBUG::Resource Image : 1.bmp
+[18:18:59] DEBUG::Resource Image : 10.bmp
+[18:18:59] DEBUG::Resource Image : 11.bmp
+[18:18:59] DEBUG::Resource Image : 12.bmp
+[18:18:59] DEBUG::Resource Image : 13.bmp
+[18:18:59] DEBUG::Resource Image : 14.bmp
+[18:18:59] DEBUG::Resource Image : 2.bmp
+[18:18:59] DEBUG::Resource Image : 3.bmp
+[18:18:59] DEBUG::Resource Image : 4.bmp
+[18:18:59] DEBUG::Resource Image : 5.bmp
+[18:18:59] DEBUG::Resource Image : 6.bmp
+[18:19:00] DEBUG::Resource Image : 7.bmp
+[18:19:00] DEBUG::Resource Image : 8.bmp
+[18:19:00] DEBUG::Resource Image : 9.bmp
+[18:19:00] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:00] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:19:01] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:03] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:19:03] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:03] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 162 G: 183 B: 15)
+[18:19:03] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[18:19:03] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[18:19:03] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[18:19:09] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:09] DEBUG::Resource Image : 0.bmp
+[18:19:10] DEBUG::Resource Image : 1.bmp
+[18:19:10] DEBUG::Resource Image : 10.bmp
+[18:19:10] DEBUG::Resource Image : 11.bmp
+[18:19:10] DEBUG::Resource Image : 12.bmp
+[18:19:10] DEBUG::Resource Image : 13.bmp
+[18:19:10] DEBUG::Resource Image : 14.bmp
+[18:19:10] DEBUG::Resource Image : 2.bmp
+[18:19:10] DEBUG::Resource Image : 3.bmp
+[18:19:10] DEBUG::Resource Image : 4.bmp
+[18:19:10] DEBUG::Resource Image : 5.bmp
+[18:19:11] DEBUG::Resource Image : 6.bmp
+[18:19:11] DEBUG::Resource Image : 7.bmp
+[18:19:11] DEBUG::Resource Image : 8.bmp
+[18:19:11] DEBUG::Resource Image : 9.bmp
+[18:19:11] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:11] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:19:13] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:14] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:19:14] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:14] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[18:19:14] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[18:19:14] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[18:19:14] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[18:19:18] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:19] DEBUG::Resource Image : 0.bmp
+[18:19:19] DEBUG::Resource Image : 1.bmp
+[18:19:19] DEBUG::Resource Image : 10.bmp
+[18:19:19] DEBUG::Resource Image : 11.bmp
+[18:19:19] DEBUG::Resource Image : 12.bmp
+[18:19:19] DEBUG::Resource Image : 13.bmp
+[18:19:19] DEBUG::Resource Image : 14.bmp
+[18:19:19] DEBUG::Resource Image : 2.bmp
+[18:19:19] DEBUG::Resource Image : 3.bmp
+[18:19:19] DEBUG::Resource Image : 4.bmp
+[18:19:20] DEBUG::Resource Image : 5.bmp
+[18:19:20] DEBUG::Resource Image : 6.bmp
+[18:19:20] DEBUG::Resource Image : 7.bmp
+[18:19:20] DEBUG::Resource Image : 8.bmp
+[18:19:20] DEBUG::Resource Image : 9.bmp
+[18:19:20] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:20] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:19:22] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:23] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:19:23] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:23] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[18:19:23] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[18:19:23] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[18:19:23] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[18:19:26] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:27] DEBUG::Resource Image : 0.bmp
+[18:19:27] DEBUG::Resource Image : 1.bmp
+[18:19:27] DEBUG::Resource Image : 10.bmp
+[18:19:27] DEBUG::Resource Image : 11.bmp
+[18:19:27] DEBUG::Resource Image : 12.bmp
+[18:19:27] DEBUG::Resource Image : 13.bmp
+[18:19:27] DEBUG::Resource Image : 14.bmp
+[18:19:27] DEBUG::Resource Image : 2.bmp
+[18:19:27] DEBUG::Resource Image : 3.bmp
+[18:19:27] DEBUG::Resource Image : 4.bmp
+[18:19:28] DEBUG::Resource Image : 5.bmp
+[18:19:28] DEBUG::Resource Image : 6.bmp
+[18:19:28] DEBUG::Resource Image : 7.bmp
+[18:19:28] DEBUG::Resource Image : 8.bmp
+[18:19:28] DEBUG::Resource Image : 9.bmp
+[18:19:28] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:28] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:19:30] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:31] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:19:31] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:31] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[18:19:31] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[18:19:31] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[18:19:31] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[18:19:38] DEBUG::Cleaning Minimap
+[18:19:38] Nombre min. de <Ble> collecté : 0
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoAtelier---------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:38] DEBUG::GoAtelier disabled.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:39] DEBUG::Resource Image : 0.bmp
+[18:19:39] DEBUG::Resource Image : 1.bmp
+[18:19:39] DEBUG::Resource Image : 10.bmp
+[18:19:39] DEBUG::Resource Image : 11.bmp
+[18:19:39] DEBUG::Resource Image : 12.bmp
+[18:19:39] DEBUG::Resource Image : 13.bmp
+[18:19:39] DEBUG::Resource Image : 14.bmp
+[18:19:39] DEBUG::Resource Image : 2.bmp
+[18:19:40] DEBUG::Resource Image : 3.bmp
+[18:19:40] DEBUG::Resource Image : 4.bmp
+[18:19:40] DEBUG::Resource Image : 5.bmp
+[18:19:40] DEBUG::Resource Image : 6.bmp
+[18:19:40] DEBUG::Resource Image : 7.bmp
+[18:19:40] DEBUG::Resource Image : 8.bmp
+[18:19:40] DEBUG::Resource Image : 9.bmp
+[18:19:40] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:41] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:19:42] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:43] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:19:43] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:43] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 162 G: 183 B: 15)
+[18:19:43] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[18:19:43] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[18:19:43] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[18:19:49] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:50] DEBUG::Resource Image : 0.bmp
+[18:19:50] DEBUG::Resource Image : 1.bmp
+[18:19:50] DEBUG::Resource Image : 10.bmp
+[18:19:50] DEBUG::Resource Image : 11.bmp
+[18:19:50] DEBUG::Resource Image : 12.bmp
+[18:19:50] DEBUG::Resource Image : 13.bmp
+[18:19:50] DEBUG::Resource Image : 14.bmp
+[18:19:51] DEBUG::Resource Image : 2.bmp
+[18:19:51] DEBUG::Resource Image : 3.bmp
+[18:19:51] DEBUG::Resource Image : 4.bmp
+[18:19:51] DEBUG::Resource Image : 5.bmp
+[18:19:51] DEBUG::Resource Image : 6.bmp
+[18:19:51] DEBUG::Resource Image : 7.bmp
+[18:19:51] DEBUG::Resource Image : 8.bmp
+[18:19:51] DEBUG::Resource Image : 9.bmp
+[18:19:51] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:52] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:19:53] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:54] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:19:54] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:54] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[18:19:54] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[18:19:54] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[18:19:54] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[18:19:58] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:19:59] DEBUG::Resource Image : 0.bmp
+[18:19:59] DEBUG::Resource Image : 1.bmp
+[18:19:59] DEBUG::Resource Image : 10.bmp
+[18:19:59] DEBUG::Resource Image : 11.bmp
+[18:19:59] DEBUG::Resource Image : 12.bmp
+[18:19:59] DEBUG::Resource Image : 13.bmp
+[18:20:00] DEBUG::Resource Image : 14.bmp
+[18:20:00] DEBUG::Resource Image : 2.bmp
+[18:20:00] DEBUG::Resource Image : 3.bmp
+[18:20:00] DEBUG::Resource Image : 4.bmp
+[18:20:00] DEBUG::Resource Image : 5.bmp
+[18:20:00] DEBUG::Resource Image : 6.bmp
+[18:20:00] DEBUG::Resource Image : 7.bmp
+[18:20:00] DEBUG::Resource Image : 8.bmp
+[18:20:00] DEBUG::Resource Image : 9.bmp
+[18:20:00] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:01] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:20:02] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:03] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:20:03] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:03] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[18:20:03] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[18:20:03] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[18:20:03] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[18:20:06] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:07] DEBUG::Resource Image : 0.bmp
+[18:20:07] DEBUG::Resource Image : 1.bmp
+[18:20:07] DEBUG::Resource Image : 10.bmp
+[18:20:07] DEBUG::Resource Image : 11.bmp
+[18:20:07] DEBUG::Resource Image : 12.bmp
+[18:20:08] DEBUG::Resource Image : 13.bmp
+[18:20:08] DEBUG::Resource Image : 14.bmp
+[18:20:08] DEBUG::Resource Image : 2.bmp
+[18:20:08] DEBUG::Resource Image : 3.bmp
+[18:20:08] DEBUG::Resource Image : 4.bmp
+[18:20:08] DEBUG::Resource Image : 5.bmp
+[18:20:08] DEBUG::Resource Image : 6.bmp
+[18:20:08] DEBUG::Resource Image : 7.bmp
+[18:20:08] DEBUG::Resource Image : 8.bmp
+[18:20:08] DEBUG::Resource Image : 9.bmp
+[18:20:09] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:09] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:20:10] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:11] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:20:11] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:12] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[18:20:12] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[18:20:12] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[18:20:12] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[18:20:18] DEBUG::Cleaning Minimap
+[18:20:18] Nombre min. de <Ble> collecté : 0
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoAtelier---------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:18] DEBUG::GoAtelier disabled.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:18] DEBUG::Resource Image : 0.bmp
+[18:20:18] DEBUG::Resource Image : 1.bmp
+[18:20:18] DEBUG::Stop Bot
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:19] DEBUG::InvetaireLocation (X: 372 Y: 401)
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:20:19] DEBUG::GoBanque disabled.
+----------------------------------------------------------------------------------------------------
+[18:20:19] DEBUG::Cleaning Minimap
+[18:27:50] DEBUG::Game Window : Yeolid
+[18:27:50] DEBUG::Game Panel Resolution : 563x411
+[18:27:50] DEBUG::Move UP Point : 281x0
+[18:27:50] DEBUG::Move RIGHT Point : 531x205
+[18:27:50] DEBUG::Move DOWN Point : 281x348
+[18:27:50] DEBUG::Move LEFT Point : 28x205
+[18:27:50] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:27:50] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:27:50] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:27:50] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:28:58] DEBUG::Run Bot
+[18:28:58] Trajet : Trajet_13-06-16_18-40-10
+[18:28:58] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt Repeat: false
+[18:28:58] Action : Métier <Paysan> Ressource <Ble>
+[18:28:58] DEBUG::Job : Paysan (ResourceToCollect : Ble Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Paysan\Ble)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:28:58] DEBUG::Resource Image : 0.bmp
+[18:28:58] DEBUG::Resource Image : 1.bmp
+[18:28:58] DEBUG::Resource Image : 10.bmp
+[18:28:58] DEBUG::Resource Image : 11.bmp
+[18:28:58] DEBUG::Resource Image : 12.bmp
+[18:28:58] DEBUG::Resource Image : 13.bmp
+[18:28:59] DEBUG::Resource Image : 14.bmp
+[18:28:59] DEBUG::Resource Image : 2.bmp
+[18:28:59] DEBUG::Resource Image : 3.bmp
+[18:28:59] DEBUG::Resource Image : 4.bmp
+[18:28:59] DEBUG::Resource Image : 5.bmp
+[18:28:59] DEBUG::Resource Image : 6.bmp
+[18:28:59] DEBUG::Resource Image : 7.bmp
+[18:28:59] DEBUG::Resource Image : 8.bmp
+[18:28:59] DEBUG::Resource Image : 9.bmp
+[18:28:59] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:28:59] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:29:01] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:02] DEBUG::GoBanque est désactivé.
+----------------------------------------------------------------------------------------------------
+[18:29:02] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:02] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 161 G: 182 B: 13)
+[18:29:02] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[18:29:02] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[18:29:02] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[18:29:02] DEBUG::Stop Bot
+[18:29:03] DEBUG::Cleaning Minimap
+[18:29:10] DEBUG::Game Window : Yeolid
+[18:29:10] DEBUG::Game Panel Resolution : 563x411
+[18:29:10] DEBUG::Move UP Point : 281x0
+[18:29:10] DEBUG::Move RIGHT Point : 531x205
+[18:29:10] DEBUG::Move DOWN Point : 281x348
+[18:29:10] DEBUG::Move LEFT Point : 28x205
+[18:29:10] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:29:10] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:29:10] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:29:10] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:29:28] DEBUG::Run Bot
+[18:29:28] Trajet : Trajet_13-06-16_18-40-10
+[18:29:28] DEBUG::Trajet File E:\Pixus\Pixus\bin\Debug\Trajet_13-06-16_18-40-10.txt Repeat: false
+[18:29:28] Action : Métier <Bucheron> Ressource <Bois de Chêne>
+[18:29:28] DEBUG::Job : Bucheron (ResourceToCollect : Bois de Chêne Pod: 2 ImagePath: E:\Pixus\Pixus\bin\Debug\Resource\Bucheron\Chêne)
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:29] DEBUG::Resource Image : 0.bmp
+[18:29:29] DEBUG::Execption occured : Pixel formats arn't equal
+[18:29:29] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:29] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:29:30] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:32] DEBUG::GoBanque est désactivé.
+----------------------------------------------------------------------------------------------------
+[18:29:32] DEBUG::Step UP::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:32] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 161 G: 182 B: 13)
+[18:29:32] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 107 G: 158 B: 155)
+[18:29:32] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 96 G: 167 B: 126)
+[18:29:32] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 140 G: 158 B: 14)
+----------------------------------------------------------------------------------------------------
+[18:29:36] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:36] DEBUG::Resource Image : 0.bmp
+[18:29:36] DEBUG::Execption occured : Pixel formats arn't equal
+[18:29:36] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:37] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:29:38] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:39] DEBUG::GoBanque est désactivé.
+----------------------------------------------------------------------------------------------------
+[18:29:39] DEBUG::Step RIGHT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:39] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 177 G: 197 B: 11)
+[18:29:39] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 182 G: 205 B: 25)
+[18:29:39] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 89 G: 135 B: 138)
+[18:29:39] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 132 G: 154 B: 18)
+----------------------------------------------------------------------------------------------------
+[18:29:43] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:44] DEBUG::Resource Image : 0.bmp
+[18:29:44] DEBUG::Execption occured : Pixel formats arn't equal
+[18:29:44] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:44] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:29:45] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:46] DEBUG::GoBanque est désactivé.
+----------------------------------------------------------------------------------------------------
+[18:29:47] DEBUG::Step DOWN::380
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:47] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 80 G: 55 B: 12)
+[18:29:47] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 224 G: 173 B: 73)
+[18:29:47] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 217 G: 176 B: 67)
+[18:29:47] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 131 G: 181 B: 202)
+----------------------------------------------------------------------------------------------------
+[18:29:51] DEBUG::Cleaning Minimap
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------DoJob-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:51] DEBUG::Resource Image : 0.bmp
+[18:29:51] DEBUG::Execption occured : Pixel formats arn't equal
+[18:29:51] DEBUG::CollectedResourceCount : 0
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------GetPod-----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:51] DEBUG::InvetaireLocation (X: 372 Y: 401)
+[18:29:52] DEBUG::Pod PodValue: 4 PercentValue: 4%
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoBanque----------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:53] DEBUG::GoBanque est désactivé.
+----------------------------------------------------------------------------------------------------
+[18:29:54] DEBUG::Step LEFT::250
+
+----------------------------------------------------------------------------------------------------
+-----------------------------------------WaitForMapToChange-----------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:29:54] DEBUG::Map Pixel (X: 70 Y: 3) Color (R: 97 G: 125 B: 116)
+[18:29:54] DEBUG::Map Pixel (X: 457 Y: 3) Color (R: 173 G: 136 B: 59)
+[18:29:54] DEBUG::Map Pixel (X: 457 Y: 344) Color (R: 77 G: 176 B: 140)
+[18:29:54] DEBUG::Map Pixel (X: 70 Y: 344) Color (R: 78 G: 176 B: 140)
+----------------------------------------------------------------------------------------------------
+[18:30:00] DEBUG::Cleaning Minimap
+[18:30:00] Nombre min. de <Bois de Chêne> collecté : 0
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------GoAtelier---------------------------------------------
+----------------------------------------------------------------------------------------------------
+[18:30:00] DEBUG::GoAtelier est désactivé.
+----------------------------------------------------------------------------------------------------
+[18:30:00] Temps écoulé : 00:00:31
+[18:30:00] Trajet complété !

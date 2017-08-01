@@ -1,0 +1,60 @@
+[18:04:50] DEBUG::Game Window : Dofus
+[18:04:50] DEBUG::Game Panel Resolution : 563x411
+[18:04:50] DEBUG::Move UP Point : 281x0
+[18:04:50] DEBUG::Move RIGHT Point : 531x205
+[18:04:50] DEBUG::Move DOWN Point : 281x348
+[18:04:50] DEBUG::Move LEFT Point : 28x205
+[18:04:50] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:04:50] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:04:50] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:04:50] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:07:02] DEBUG::Game Window : Dofus
+[18:07:02] DEBUG::Game Panel Resolution : 563x411
+[18:07:02] DEBUG::Move UP Point : 281x0
+[18:07:02] DEBUG::Move RIGHT Point : 531x205
+[18:07:02] DEBUG::Move DOWN Point : 281x348
+[18:07:02] DEBUG::Move LEFT Point : 28x205
+[18:07:02] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:07:02] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:07:02] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:07:02] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:07:46] DEBUG::Game Window : Dofus
+[18:07:46] DEBUG::Game Panel Resolution : 563x411
+[18:07:46] DEBUG::Move UP Point : 281x0
+[18:07:46] DEBUG::Move RIGHT Point : 531x205
+[18:07:46] DEBUG::Move DOWN Point : 281x348
+[18:07:46] DEBUG::Move LEFT Point : 28x205
+[18:07:46] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:07:46] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:07:46] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:07:46] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:12:18] DEBUG::Game Window : Dofus
+[18:12:18] DEBUG::Game Panel Resolution : 563x411
+[18:12:18] DEBUG::Move UP Point : 281x0
+[18:12:18] DEBUG::Move RIGHT Point : 531x205
+[18:12:18] DEBUG::Move DOWN Point : 281x348
+[18:12:18] DEBUG::Move LEFT Point : 28x205
+[18:12:18] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:12:18] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:12:18] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:12:18] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:19:47] DEBUG::Game Window : Dofus
+[18:19:47] DEBUG::Game Panel Resolution : 563x411
+[18:19:47] DEBUG::Move UP Point : 281x0
+[18:19:47] DEBUG::Move RIGHT Point : 531x205
+[18:19:47] DEBUG::Move DOWN Point : 281x348
+[18:19:47] DEBUG::Move LEFT Point : 28x205
+[18:19:47] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:19:47] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:19:47] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:19:47] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[18:20:41] DEBUG::Game Window : Dofus
+[18:20:41] DEBUG::Game Panel Resolution : 563x411
+[18:20:41] DEBUG::Move UP Point : 281x0
+[18:20:41] DEBUG::Move RIGHT Point : 531x205
+[18:20:41] DEBUG::Move DOWN Point : 281x348
+[18:20:41] DEBUG::Move LEFT Point : 28x205
+[18:20:41] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[18:20:41] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[18:20:41] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[18:20:41] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)

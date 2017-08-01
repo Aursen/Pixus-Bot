@@ -1,0 +1,20 @@
+[13:19:31] DEBUG::Game Window : Yeolid
+[13:19:31] DEBUG::Game Panel Resolution : 563x411
+[13:19:31] DEBUG::Move UP Point : 281x0
+[13:19:31] DEBUG::Move RIGHT Point : 531x205
+[13:19:31] DEBUG::Move DOWN Point : 281x348
+[13:19:31] DEBUG::Move LEFT Point : 28x205
+[13:19:31] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[13:19:31] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[13:19:31] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[13:19:31] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
+[13:20:05] DEBUG::Game Window : Yeolid
+[13:20:05] DEBUG::Game Panel Resolution : 563x411
+[13:20:05] DEBUG::Move UP Point : 281x0
+[13:20:05] DEBUG::Move RIGHT Point : 531x205
+[13:20:05] DEBUG::Move DOWN Point : 281x348
+[13:20:05] DEBUG::Move LEFT Point : 28x205
+[13:20:05] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[13:20:05] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[13:20:05] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[13:20:05] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)

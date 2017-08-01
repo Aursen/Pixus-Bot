@@ -1,0 +1,10 @@
+[15:59:09] DEBUG::Game Window : Dofus
+[15:59:09] DEBUG::Game Panel Resolution : 563x415
+[15:59:09] DEBUG::Move UP Point : 281x0
+[15:59:09] DEBUG::Move RIGHT Point : 531x207
+[15:59:09] DEBUG::Move DOWN Point : 281x355
+[15:59:09] DEBUG::Move LEFT Point : 28x207
+[15:59:09] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[15:59:09] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[15:59:09] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 351)
+[15:59:09] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 351)

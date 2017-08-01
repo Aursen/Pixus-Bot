@@ -1,0 +1,10 @@
+[17:12:19] DEBUG::Game Window : Arcc-Evil
+[17:12:19] DEBUG::Game Panel Resolution : 563x411
+[17:12:19] DEBUG::Move UP Point : 281x0
+[17:12:19] DEBUG::Move RIGHT Point : 531x205
+[17:12:19] DEBUG::Move DOWN Point : 281x348
+[17:12:19] DEBUG::Move LEFT Point : 28x205
+[17:12:19] DEBUG::Map Pixel To Check [1] ( X: 70 Y: 3)
+[17:12:19] DEBUG::Map Pixel To Check [2] ( X: 457 Y: 3)
+[17:12:19] DEBUG::Map Pixel To Check [3] ( X: 457 Y: 344)
+[17:12:19] DEBUG::Map Pixel To Check [4] ( X: 70 Y: 344)
