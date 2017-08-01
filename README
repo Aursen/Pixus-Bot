@@ -1,4 +1,4 @@
-Pixel bot for Dofus game written in C#
+Pixel bot for Dofus game written in C# (using VS 2013)
 
 - what the bot can actually do :
 + Follow/repeat a specified route/path in game.
