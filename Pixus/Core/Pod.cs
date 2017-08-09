@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Drawing;
-
-namespace Pixus.Core
+﻿namespace Pixus.Core
 {
     class Pod
     {
@@ -23,19 +18,13 @@ namespace Pixus.Core
         //=========================================================================================================================
         //                                                      constr.
         //=========================================================================================================================
-        public Pod()
-        {
-            this.PercentValue = 0;
-        }
+        public Pod() => PercentValue = 0;
 
         //=========================================================================================================================
         //                                                      méthodes
         //=========================================================================================================================
 
         // isFull(...) : retourne true si on est full pod si nn false
-        public bool isFull()
-        {
-            return this.PercentValue >= 99; // %
-        }
+        public bool isFull() => PercentValue >= 99; // %
     }
 }

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading; // pour la Class ManualResetEvent
 using System.Windows.Forms; // pour la Class TextBox
 using System.Drawing; // pour la Class Point
@@ -44,20 +43,20 @@ namespace Pixus.Core
             System.Windows.Forms.Timer timer, Stopwatch stopWatch,
             Button runBotBtn, Button pauseBotBtn, PictureBox botStatePictureBox, PictureBox minimapPictureBox, Panel gamePanel, IntPtr gameHandle, CustomProgressBar podProgressBar)
         {
-            this.ParentForm = parentForm;
-            this.Log = log;
-            this.Trajet = trajet;
-            this.Job = job;
-            this.Fight = fight;
-            this.Timer = timer;
-            this.StopWatch = stopWatch;
-            this.RunBotBtn = runBotBtn;
-            this.PauseBotBtn = pauseBotBtn;
-            this.BotStatePictureBox = botStatePictureBox;
-            this.MinimapPictureBox = minimapPictureBox;
-            this.GamePanel = gamePanel;
-            this.GameHandle = gameHandle;
-            this.PodProgressBar = podProgressBar;
+            ParentForm = parentForm;
+            Log = log;
+            Trajet = trajet;
+            Job = job;
+            Fight = fight;
+            Timer = timer;
+            StopWatch = stopWatch;
+            RunBotBtn = runBotBtn;
+            PauseBotBtn = pauseBotBtn;
+            BotStatePictureBox = botStatePictureBox;
+            MinimapPictureBox = minimapPictureBox;
+            GamePanel = gamePanel;
+            GameHandle = gameHandle;
+            PodProgressBar = podProgressBar;
         }
 
         //=========================================================================================================================
@@ -330,7 +329,7 @@ namespace Pixus.Core
                             break;
                         default:
                             Log.Error("Erreur sur le trajet.");
-                            this.Suspend();
+                            Suspend();
                             shouldWaitForMapToChange = false;
                             break;
                     }
@@ -405,7 +404,7 @@ namespace Pixus.Core
                 else // connexion perdue
                     Log.Error("Connexion perdue");
 
-                this.Suspend();
+                Suspend();
             }
         }
 
@@ -494,7 +493,7 @@ namespace Pixus.Core
                         if (!Connection.State())
                         {
                             Log.Error("Connexion perdue");
-                            this.Suspend();
+                            Suspend();
                             break;
                         }
 
@@ -579,11 +578,11 @@ namespace Pixus.Core
                 if (!_shutdownEvent.WaitOne(0)) // si le bot n'a pas été arrêté
                 {
                     // Set Pod PercentValue (%)
-                    this.Pod.PercentValue = (int)((float)((float)PodValue / Pod.PodBarWidth) * 100);
-                    Log.Debug("Pod PodValue: " + PodValue + " PercentValue: " + this.Pod.PercentValue + "%");
+                    Pod.PercentValue = (int)((float)((float)PodValue / Pod.PodBarWidth) * 100);
+                    Log.Debug("Pod PodValue: " + PodValue + " PercentValue: " + Pod.PercentValue + "%");
 
                     // Set Progressbar FillProcent
-                    PodProgressBar.BarFillProcent = this.Pod.PercentValue;
+                    PodProgressBar.BarFillProcent = Pod.PercentValue;
 
                     // ReClick sur l'inventaire pour le fermer
                     FakeClick.ClickOnPoint(GameHandle, Settings.InventoryPosition);
@@ -605,12 +604,12 @@ namespace Pixus.Core
         {
             Log.Title(Log.Level.Debug, "GoBanque");
 
-            if (this.Job.GoBanque.Enabled)
+            if (Job.GoBanque.Enabled)
             {
-                Log.Debug("Bot Pod: " + this.Pod.PercentValue + "%");
+                Log.Debug("Bot Pod: " + Pod.PercentValue + "%");
 
                 // si bot full pod
-                if (this.Pod.isFull())
+                if (Pod.isFull())
                 {
                     // Lecture du fichier du trajet
                     string[] steps = File.ReadAllLines(Job.GoBanque.Trajet.File);
@@ -631,10 +630,10 @@ namespace Pixus.Core
             {
                 Log.Debug("GoBanque est désactivé.");
                 // si bot full pod + GoBanque désactivé
-                if (this.Pod.isFull())
+                if (Pod.isFull())
                 {
                     Log.Error("Le bot est full pod.");
-                    this.Suspend();
+                    Suspend();
                 }
             }
 
@@ -747,7 +746,7 @@ namespace Pixus.Core
                     BotStatePictureBox.Image = Pixus.Properties.Resources.load;
 
                     // si combat abandonné, on arrête le bot (pour le moment)
-                    if (Fight.Turn >= Settings.ExitFightTurn) this.Suspend();
+                    if (Fight.Turn >= Settings.ExitFightTurn) Suspend();
                 }
             }
             catch (Exception ex)
@@ -811,7 +810,7 @@ namespace Pixus.Core
                             break;
                         default:
                             Log.Error("Erreur sur l'IA de combat.");
-                            this.Suspend();
+                            Suspend();
                             break;
                     }
 
@@ -824,7 +823,7 @@ namespace Pixus.Core
                 {
                     Log.Debug("Execption occured : " + ex.Message);
                     Log.Error("Erreur sur l'IA de combat.");
-                    this.Suspend();
+                    Suspend();
                 }
             }
         }
@@ -868,7 +867,7 @@ namespace Pixus.Core
                 else // connexion perdue
                     Log.Error("Connexion perdue");
 
-                this.Suspend();
+                Suspend();
             }
 
             return false;

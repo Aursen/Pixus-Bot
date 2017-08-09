@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Drawing;
-
-namespace Pixus.Core.FightStuffs
+﻿namespace Pixus.Core.FightStuffs
 {
     class Fight
     {
@@ -26,9 +21,9 @@ namespace Pixus.Core.FightStuffs
         //=========================================================================================================================
         public Fight(IA ia)
         {
-            this.Turn = 0;
-            this.OnGoing = false;
-            this.IA = ia;
+            Turn = 0;
+            OnGoing = false;
+            IA = ia;
         }
     }
 }

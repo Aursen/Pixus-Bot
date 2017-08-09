@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Pixus.Core.JobStuffs
+﻿namespace Pixus.Core.JobStuffs
 {
     class GoBanque
     {
@@ -20,9 +16,6 @@ namespace Pixus.Core.JobStuffs
         //=========================================================================================================================
         //                                                      constr.
         //=========================================================================================================================
-        public GoBanque()
-        {
-            this.Enabled = false;
-        }
+        public GoBanque() => Enabled = false;
     }
 }

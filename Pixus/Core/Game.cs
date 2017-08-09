@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Drawing; // pour la Class Rectangle
 using System.Windows.Forms; // pour la Class Screen
 using System.Diagnostics; // pour la Class Process

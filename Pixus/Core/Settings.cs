@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Drawing; // pour la class Point
 using System.IO;
 using System.Reflection;
@@ -69,10 +68,7 @@ namespace Pixus.Core
         }
 
         // Dispose(...) : supprime le fichier de configuration
-        public static void Dispose(string fileName = DEFAULT_FILENAME)
-        {
-            File.Delete(fileName);
-        }
+        public static void Dispose(string fileName = DEFAULT_FILENAME) => File.Delete(fileName);
 
         // Load(...) : charge les préférences du fichier de configuration
         public static bool Load(string fileName = DEFAULT_FILENAME)

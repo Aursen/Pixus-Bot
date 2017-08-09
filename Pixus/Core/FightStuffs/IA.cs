@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Pixus.Core.FightStuffs
 {
@@ -20,11 +19,7 @@ namespace Pixus.Core.FightStuffs
         //=========================================================================================================================
         //                                                      constr.
         //=========================================================================================================================
-        public IA(String File)
-            : base(File)
-        {
-            this.NextAction = new List<string>();
-        }
+        public IA(String File): base(File) => NextAction = new List<string>();
 
         //=========================================================================================================================
         //                                                      méthodes
@@ -33,11 +28,11 @@ namespace Pixus.Core.FightStuffs
         // Next(...) : sauvegarde la prochaine action de l'IA
         public void Next(string[] nextActions)
         {
-            if (this.NextAction.Count > 0)
-                this.NextAction.Clear();
+            if (NextAction.Count > 0)
+                NextAction.Clear();
 
-            foreach (string nextAction in nextActions)
-                this.NextAction.Add(nextAction);
+            foreach (var nextAction in nextActions)
+                NextAction.Add(nextAction);
         }
 
         // NextActionToString(...) : retourne NextAction sous forme de chaine de caractère séparée par des ','
@@ -45,8 +40,8 @@ namespace Pixus.Core.FightStuffs
         {
             string nextActionString = "";
 
-            for (int i = 0; i < this.NextAction.Count; i++)
-                nextActionString += this.NextAction[i] + (i < this.NextAction.Count - 1 ? "," : "");
+            for (int i = 0; i < NextAction.Count; i++)
+                nextActionString += NextAction[i] + (i < NextAction.Count - 1 ? "," : "");
 
             return nextActionString;
         }

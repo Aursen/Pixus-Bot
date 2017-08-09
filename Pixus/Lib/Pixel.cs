@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Runtime.InteropServices;
 using System.Drawing; // pour la Class Color
 using Pixus.Core;
@@ -107,21 +106,15 @@ namespace Pixus.Lib
         {
             // screen x/y > width/height
             if (screen_x_or_y > width_or_height)
-                return (int)((float)(coordinate / ((float)screen_x_or_y / width_or_height)));
+                return (int)(coordinate / ((float)screen_x_or_y / width_or_height));
             else
-                return (int)((float)(coordinate * ((float)screen_x_or_y / width_or_height)));
+                return (int)(coordinate * ((float)screen_x_or_y / width_or_height));
         }
 
         // FitXTo(...) : adapte x selon les paramétres passés
-        public static int FitXTo(int x, int width)
-        {
-            return FitCoordinateTo(x, width, Move.SCREEN_X);
-        }
+        public static int FitXTo(int x, int width) => FitCoordinateTo(x, width, Move.SCREEN_X);
 
         // FitYTo(...) : adapte y selon les paramétres passés
-        public static int FitYTo(int y, int height)
-        {
-            return FitCoordinateTo(y, height, Move.SCREEN_Y);
-        }
+        public static int FitYTo(int y, int height) => FitCoordinateTo(y, height, Move.SCREEN_Y);
     }
 }

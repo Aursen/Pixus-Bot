@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Pixus.Lib
+﻿namespace Pixus.Lib
 {
     public class ComboBoxItem
     {
@@ -15,9 +11,6 @@ namespace Pixus.Lib
             this.Value = Value;
         }
 
-        public override string ToString()
-        {
-            return Text;
-        }
+        public override string ToString() => Text;
     }
 }

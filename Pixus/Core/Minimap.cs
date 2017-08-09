@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 using System.Drawing;
 using Pixus.Lib;
 
@@ -33,10 +30,10 @@ namespace Pixus.Core
 
             Bitmap MinimapImage = (Bitmap)MinimapPictureBox.Image;
             Graphics g = Graphics.FromImage(MinimapImage);
-            int cellSize = Minimap.GridCellSize;
+            int cellSize = GridCellSize;
             int numOfCells = MinimapPictureBox.Width / cellSize;
 
-            Pen p = new Pen(Minimap.GridColor);
+            Pen p = new Pen(GridColor);
             g.Clear(GridBackColor);
 
             for (int i = 0; i <= numOfCells; i++)
@@ -89,21 +86,15 @@ namespace Pixus.Core
         }
 
         // Clear(...) : efface/néttoie la Minimap
-        public static void Clear(PictureBox MinimapPictureBox)
-        {
-            MinimapPictureBox.Image = DrawGrid(MinimapPictureBox);
-        }
+        public static void Clear(PictureBox MinimapPictureBox) => MinimapPictureBox.Image = DrawGrid(MinimapPictureBox);
 
         // Load(...) : initialise la Minimap
-        public static void Load(PictureBox MinimapPictureBox)
-        {
-            Clear(MinimapPictureBox);
-        }
+        public static void Load(PictureBox MinimapPictureBox) => Clear(MinimapPictureBox);
 
         // Zoom(...) : effectue un zoom sur l'image de la Minimap
         private static Bitmap Zoom(Bitmap originalBitmap, int zoomFactor = 2) // x2 (double)
         {
-            Size newSize = new Size((int)(originalBitmap.Width * zoomFactor), (int)(originalBitmap.Height * zoomFactor));
+            Size newSize = new Size(originalBitmap.Width * zoomFactor, originalBitmap.Height * zoomFactor);
             Bitmap bmp = new Bitmap(originalBitmap, newSize);
 
             return bmp;

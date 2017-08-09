@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.IO; // pour la class Path
 
 namespace Pixus.Core
@@ -17,10 +15,10 @@ namespace Pixus.Core
         //=========================================================================================================================
         //                                                      constr.
         //=========================================================================================================================
-        public Script(String File)
+        public Script(String file)
         {
-            this.File = File;
-            this.Name = Path.GetFileNameWithoutExtension(File);
+            File = file;
+            Name = Path.GetFileNameWithoutExtension(file);
         }
 
         //=========================================================================================================================
@@ -28,9 +26,6 @@ namespace Pixus.Core
         //=========================================================================================================================
 
         // Equals(...) : retourne si le script actuel est égal à celui passé en paramétre
-        public bool Equals(Script script)
-        {
-            return this.Name == script.Name;
-        }
+        public bool Equals(Script script) => Name == script.Name;
     }
 }

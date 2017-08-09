@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Runtime.InteropServices;
 using System.Drawing; // pour la Class Point
 using System.Threading; // pour la Class Thread

@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Runtime.InteropServices;
 using System.Drawing;
 
@@ -27,35 +25,14 @@ namespace Pixus.Lib
 
         private struct RECT
         {
-            int left;
-            int top;
-            int right;
-            int bottom;
+            int left, top, right, bottom;
 
-            public int Left
-            {
-                get { return this.left; }
-            }
+            public int Left { get => left; }
+            public int Top { get => top; }
+            public int Width { get => right - left; }
+            public int Height { get => bottom - top; }
 
-            public int Top
-            {
-                get { return this.top; }
-            }
-
-            public int Width
-            {
-                get { return right - left; }
-            }
-
-            public int Height
-            {
-                get { return bottom - top; }
-            }
-
-            public static implicit operator Rectangle(RECT rect)
-            {
-                return new Rectangle(rect.left, rect.top, rect.Width, rect.Height);
-            }
+            public static implicit operator Rectangle(RECT rect) => new Rectangle(rect.left, rect.top, rect.Width, rect.Height);
         }
 
         [DllImport("user32")]

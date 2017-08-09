@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 using System.IO;
 using System.Windows.Forms;
@@ -68,16 +67,10 @@ namespace Pixus.Core
         }
 
         // WriteLine(...) : Ecrie une ligne dans le fichier log
-        private void WriteLine(String text)
-        {
-            Write(text + "\r\n");
-        }
+        private void WriteLine(String text) => Write(text + "\r\n");
 
         // AddLogTime(...) : Ajoute la date et heure au texte passé en paramétre
-        private string AddLogTime(String text)
-        {
-            return "[" + DateTime.Now.ToLongTimeString() + "] " + text;
-        }
+        private string AddLogTime(String text) => "[" + DateTime.Now.ToLongTimeString() + "] " + text;
 
         // Entry(...) : Enregitre une entrée dans le log
         private void Entry(Level level, String text, bool noTime = false)
@@ -119,28 +112,16 @@ namespace Pixus.Core
         }
 
         // Entry(...) : Enregitre une entrée dans le log
-        public void Entry(String text)
-        {
-            Entry(Level.Normal, text);
-        }
+        public void Entry(String text) => Entry(Level.Normal, text);
 
         // Error(...) : Enregitre une erreur dans le log
-        public void Error(String text)
-        {
-            Entry(Level.Error, text);
-        }
+        public void Error(String text) => Entry(Level.Error, text);
 
         // Success(...) : Enregitre une entrée de succès dans le log
-        public void Success(String text)
-        {
-            Entry(Level.Success, text);
-        }
+        public void Success(String text) => Entry(Level.Success, text);
 
         // Debug(...) : Enregitre une entrée de débeugage dans le log
-        public void Debug(String text)
-        {
-            Entry(Level.Debug, DebugPrefix + text + DebugSuffix);
-        }
+        public void Debug(String text) => Entry(Level.Debug, DebugPrefix + text + DebugSuffix);
 
         // Header(...) : ajoute une entête dans le log
         private void Header(Level level, String text, int length, char c)
@@ -164,16 +145,10 @@ namespace Pixus.Core
         }
 
         // Divider(...) : ajoute un séparateur dans le log
-        public void Divider(Level level, int length = 100, char c = '-')
-        {
-            Header(level, "", length, c);
-        }
+        public void Divider(Level level, int length = 100, char c = '-') => Header(level, "", length, c);
 
         // NewLine(...) : ajoute une nouvelle ligne dans le log
-        public void NewLine()
-        {
-            WriteLine("");
-        }
+        public void NewLine() => WriteLine("");
 
         // Title(...) : ajoute un titre dans le log
         public void Title(Level level, String title, int length = 100, char c = '-')

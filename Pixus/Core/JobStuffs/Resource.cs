@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Pixus.Core.JobStuffs
 {
@@ -17,8 +15,8 @@ namespace Pixus.Core.JobStuffs
         //=========================================================================================================================
         public Resource(String name, int pod)
         {
-            this.Name = name;
-            this.Pod = pod;
+            Name = name;
+            Pod = pod;
         }
     }
 }

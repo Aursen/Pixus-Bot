@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Drawing;
 
 namespace Pixus.Core
@@ -20,9 +19,9 @@ namespace Pixus.Core
         //=========================================================================================================================
         public Popup(string name, Point position, Color color)
         {
-            this.Name = name;
-            this.Position = position;
-            this.Color = color;
+            Name = name;
+            Position = position;
+            Color = color;
         }
 
         //=========================================================================================================================

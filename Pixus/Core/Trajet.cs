@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Pixus.Core
 {
@@ -15,16 +13,16 @@ namespace Pixus.Core
         //=========================================================================================================================
         //                                                      constr.
         //=========================================================================================================================
-        public Trajet(String Name, String File, bool repeat = false) : base(File)
+        public Trajet(String name, String file, bool repeat = false) : base(file)
         {
-            this.Name = Name;
+            Name = name;
             //this.File = File;
-            this.Repeat = repeat;
+            Repeat = repeat;
         }
 
-        public Trajet(String File, bool repeat = false) : base(File)
+        public Trajet(String file, bool repeat = false) : base(file)
         {
-            this.Repeat = repeat;
+            Repeat = repeat;
         }
     }
 }

@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Drawing; // pour la Class Point
 using Pixus.Lib;
 
@@ -48,33 +46,18 @@ namespace Pixus.Core
         }
 
         // Step(...) : Bouge le Bot
-        private static void Step(IntPtr GameHandle, Point to)
-        {
-            FakeClick.ClickOnPoint(GameHandle, to);
-        }
+        private static void Step(IntPtr GameHandle, Point to) => FakeClick.ClickOnPoint(GameHandle, to);
 
         // Up(...) : Bouge le Bot en haut
-        public static void Up(int x, int width, IntPtr GameHandle)
-        {
-            Step(GameHandle, new Point(Pixel.FitXTo(x, width), UP.Y));
-        }
+        public static void Up(int x, int width, IntPtr GameHandle) => Step(GameHandle, new Point(Pixel.FitXTo(x, width), UP.Y));
 
         // Down(...) : Bouge le Bot en bas
-        public static void Down(int x, int width, IntPtr GameHandle)
-        {
-            Step(GameHandle, new Point(Pixel.FitXTo(x, width), DOWN.Y));
-        }
+        public static void Down(int x, int width, IntPtr GameHandle) => Step(GameHandle, new Point(Pixel.FitXTo(x, width), DOWN.Y));
 
         // Left(...) : Bouge le Bot à gauche
-        public static void Left(int y, int height, IntPtr GameHandle)
-        {
-            Step(GameHandle, new Point(LEFT.X, Pixel.FitYTo(y, height)));
-        }
+        public static void Left(int y, int height, IntPtr GameHandle) => Step(GameHandle, new Point(LEFT.X, Pixel.FitYTo(y, height)));
 
         // Right(...) : Bouge le Bot à droite
-        public static void Right(int y, int height, IntPtr GameHandle)
-        {
-            Step(GameHandle, new Point(RIGHT.X, Pixel.FitYTo(y, height)));
-        }
+        public static void Right(int y, int height, IntPtr GameHandle) => Step(GameHandle, new Point(RIGHT.X, Pixel.FitYTo(y, height)));
     }
 }

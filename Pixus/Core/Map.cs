@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using Pixus.Lib;
 using System.Drawing; // pour la Class Color
 

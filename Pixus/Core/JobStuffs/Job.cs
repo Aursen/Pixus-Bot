@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Pixus.Core.JobStuffs
+﻿namespace Pixus.Core.JobStuffs
 {
     class Job
     {
@@ -23,11 +19,11 @@ namespace Pixus.Core.JobStuffs
         //=========================================================================================================================
         //                                                      constr.
         //=========================================================================================================================
-        public Job(int maxCollectTime = Job.CollectTimeout)
+        public Job(int maxCollectTime = CollectTimeout)
         {
-            this.MaxCollectTime = maxCollectTime;
-            this.CollectedResourceCount = 0;
-            this.GoBanque = new GoBanque();
+            MaxCollectTime = maxCollectTime;
+            CollectedResourceCount = 0;
+            GoBanque = new GoBanque();
         }
 
         //=========================================================================================================================
@@ -35,9 +31,6 @@ namespace Pixus.Core.JobStuffs
         //=========================================================================================================================
         
         // Clone(...) : Clone un métier
-        public void Clone(Job job)
-        {
-            this.MaxCollectTime = job.MaxCollectTime;
-        }
+        public void Clone(Job job) => MaxCollectTime = job.MaxCollectTime;
     }
 }
